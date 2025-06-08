@@ -1,0 +1,29 @@
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f8f9fc;
+}
+
+.hero {
+  height: 100vh;
+  background: linear-gradient(to right, #4a00e0, #8e2de2);
+  color: white;
+}
+
+.form-section {
+  background: linear-gradient(to bottom right, #eef2f3, #d9e2f3);
+}
+
+.glass-card {
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+  border: 1px solid #dee2e6;
+}
+
+.divider {
+  height: 4px;
+  width: 60px;
+  background: linear-gradient(to right, #8e2de2, #4a00e0);
+  margin: 0 auto;
+  border-radius: 10px;
+}

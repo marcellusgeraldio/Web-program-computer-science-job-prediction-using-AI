@@ -1,0 +1,1001 @@
+Student ID,Name,Gender,Age,GPA,Major,Interested Domain,Projects,Future Career,Python,SQL,Java
+1,John Smith,Male,21,3.5,Computer Science,Artificial Intelligence,Chatbot Development,Machine Learning Researcher,Strong,Strong,Basic
+2,Alice Johnson,Female,20,3.2,Computer Science,Data Science,Data Analytics,Data Scientist,Average,Strong,Basic
+3,Robert Davis,Male,22,3.8,Computer Science,Software Development,E-Commerce Website,Software Engineer,Strong,Strong,Average
+4,Emily Wilson,Female,21,3.7,Computer Science,Web Development,Full-Stack Web App,Web Developer,Basic,Strong,Strong
+5,Michael Brown,Male,23,3.4,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+6,Laura Lee,Female,22,3.9,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Basic
+7,William Johnson,Male,20,3.6,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Strong,Basic
+8,Sarah Miller,Female,21,3.7,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Basic,Strong,Average
+9,James Wilson,Male,23,3.3,Computer Science,Mobile App Development,Android App,Mobile App Developer,Average,Basic,Strong
+10,Olivia Clark,Female,22,3.5,Computer Science,Computer Graphics,3D Rendering,Graphics Programmer,Basic,Average,Strong
+11,Andrew Hall,Male,21,3.8,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+12,David Jones,Male,22,3.7,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+13,Elizabeth Williams,Female,21,3.3,Computer Science,Mobile App Development,Ios App,Mobile App Developer,Average,Basic,Strong
+14,Charles Miller,Male,23,3.5,Computer Science,Computer Graphics,Game Development,Game Developer,Basic,Average,Strong
+15,Susan Davis,Female,22,3.8,Computer Science,Software Engineering,E-Commerce Website,Software Engineer,Strong,Strong,Average
+16,John Brown,Male,20,3.6,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+17,Laura Lee,Female,21,3.9,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Basic
+18,William Johnson,Male,23,3.6,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Strong,Basic
+19,Sarah Miller,Female,22,3.7,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Basic,Strong,Average
+20,James Wilson,Male,20,3.3,Computer Science,Mobile App Development,Android App,Mobile App Developer,Average,Basic,Strong
+21,Olivia Clark,Female,21,3.5,Computer Science,Computer Graphics,3D Rendering,Graphics Programmer,Basic,Average,Strong
+22,Andrew Hall,Male,23,3.8,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+23,David Jones,Male,22,3.7,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+24,Elizabeth Williams,Female,21,3.3,Computer Science,Mobile App Development,Ios App,Mobile App Developer,Average,Basic,Strong
+25,Charles Miller,Male,23,3.5,Computer Science,Computer Graphics,Game Development,Game Developer,Basic,Average,Strong
+26,Susan Davis,Female,22,3.8,Computer Science,Software Engineering,E-Commerce Website,Software Engineer,Strong,Strong,Average
+27,John Brown,Male,20,3.6,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+28,Laura Lee,Female,21,3.9,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Basic
+29,William Johnson,Male,23,3.6,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Strong,Basic
+30,Sarah Miller,Female,22,3.7,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Basic,Strong,Average
+31,James Wilson,Male,20,3.3,Computer Science,Mobile App Development,Android App,Mobile App Developer,Average,Basic,Strong
+32,Olivia Clark,Female,21,3.5,Computer Science,Computer Graphics,3D Rendering,Graphics Programmer,Basic,Average,Strong
+33,Andrew Hall,Male,23,3.8,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+34,David Jones,Male,22,3.7,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+35,Elizabeth Williams,Female,21,3.3,Computer Science,Mobile App Development,Ios App,Mobile App Developer,Average,Basic,Strong
+36,Charles Miller,Male,23,3.5,Computer Science,Computer Graphics,Game Development,Game Developer,Basic,Average,Strong
+37,Susan Davis,Female,22,3.8,Computer Science,Software Engineering,E-Commerce Website,Software Engineer,Strong,Strong,Average
+38,John Brown,Male,20,3.6,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+39,Laura Lee,Female,21,3.9,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Basic
+40,Jessica Jones,Female,22,3.6,Computer Science,Cloud Computing,Gcp Deployment,Cloud Solutions Architect,Strong,Strong,Average
+41,Peter Parker,Male,20,3.3,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+42,Mary Jane Watson,Female,21,3.7,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+43,Harry Osborn,Male,23,3.5,Computer Science,Mobile App Development,Ios Game,Mobile App Developer,Average,Basic,Strong
+44,Gwen Stacy,Female,22,3.8,Computer Science,Computer Graphics,3D Animation,Graphics Programmer,Basic,Average,Strong
+45,Eddie Brock,Male,21,3.6,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+46,Michelle Williams,Female,20,3.3,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+47,Flash Thompson,Male,22,3.7,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+48,Liz Allan,Female,21,3.5,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+49,Jason Macendale,Male,23,3.8,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Strong,Strong,Average
+50,Fred Myers,Male,22,3.6,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+51,Betty Brant,Female,21,3.7,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+52,Ned Leeds,Male,20,3.3,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Average,Basic,Strong
+53,Silver Sable,Female,22,3.8,Computer Science,Computer Graphics,3D Modeling,Graphics Programmer,Basic,Average,Strong
+54,Black Cat,Female,21,3.6,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+55,Venom,Male,20,3.3,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+56,Carnage,Male,22,3.7,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+57,Lizard,Male,21,3.5,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+58,Electro,Male,23,3.8,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Strong,Strong,Average
+59,Sandman,Male,22,3.6,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+60,Mysterio,Male,20,3.3,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+61,Rhino,Male,21,3.7,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Average,Basic,Strong
+62,Scorpion,Male,22,3.5,Computer Science,Computer Graphics,3D Animation,Graphics Programmer,Basic,Average,Strong
+63,Vulture,Male,23,3.8,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+64,Shocker,Male,20,3.3,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+65,Kraven The Hunter,Male,22,3.7,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+66,Green Goblin,Male,21,3.5,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+67,Doctor Octopus,Male,23,3.8,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Strong,Strong,Average
+68,Morbius,Male,22,3.6,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+69,Lizard,Male,20,3.3,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+70,Hydro-Man,Male,21,3.7,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Average,Basic,Strong
+71,Kingpin,Male,22,3.5,Computer Science,Computer Graphics,3D Animation,Graphics Programmer,Basic,Average,Strong
+72,Taskmaster,Male,23,3.8,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+73,Modok,Male,20,3.3,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+74,Aim,Male,22,3.7,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+75,Hydra,Male,21,3.5,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+76,Aim,Female,22,3.7,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+77,Agent Coulson,Male,35,3.9,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Strong,Strong,Average
+78,Agent Hill,Female,33,3.8,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+79,Agent Melinda May,Female,37,3.7,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+80,Agent Daisy Johnson,Female,29,3.6,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Strong,Average,Strong
+81,Agent Simmons,Female,31,3.5,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+82,Agent Fitz,Male,35,3.9,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+83,Agent Mack,Male,37,3.8,Computer Science,Computer Graphics,3D Animation,Graphics Programmer,Basic,Average,Strong
+84,Agent Bobbi Morse,Female,29,3.7,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+85,Agent Lance Hunter,Male,33,3.6,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+86,Oliver Davis,Male,22,3.7,Computer Science,Network Security,Firewall Management,Security Analyst,Strong,Average,Basic
+87,Ava Miller,Female,21,3.6,Computer Science,Machine Learning,Deep Learning Models,Machine Learning Engineer,Strong,Average,Basic
+88,Liam Wilson,Male,23,3.8,Computer Science,Database Management,Data Warehouse Design,Database Administrator,Average,Strong,Basic
+89,Sophia Johnson,Female,22,3.5,Computer Science,Software Development,Embedded Systems,Embedded Software Engineer,Basic,Strong,Average
+90,Michael Brown,Male,21,3.9,Computer Science,Web Development,Front-End Development,Web Developer,Strong,Average,Basic
+91,Emily Lee,Female,20,3.7,Computer Science,Data Science,Statistical Analysis,Data Analyst,Strong,Average,Basic
+92,William Davis,Male,22,3.4,Computer Science,Artificial Intelligence,Robotics,Robotics Engineer,Strong,Strong,Basic
+93,Olivia Brown,Female,21,3.5,Computer Science,Game Development,Mobile Game Development,Game Developer,Basic,Strong,Average
+94,John Smith,Male,23,3.6,Computer Science,Cybersecurity,Penetration Testing,Ethical Hacker,Strong,Strong,Average
+95,Alice Johnson,Female,20,3.2,Computer Science,Computer Vision,Object Detection,Computer Vision Engineer,Strong,Average,Basic
+96,Robert Davis,Male,22,3.8,Computer Science,Software Engineering,Devops,Devops Engineer,Strong,Average,Basic
+97,Emily Wilson,Female,21,3.7,Computer Science,Bioinformatics,Genomic Data Analysis,Bioinformatician,Basic,Strong,Strong
+98,Michael Brown,Male,23,3.4,Computer Science,Iot (Internet Of Things),Smart Home Automation,Iot Developer,Basic,Strong,Average
+99,Laura Lee,Female,22,3.9,Computer Science,Natural Language Processing,Chatbot Development,Nlp Engineer,Strong,Average,Basic
+100,William Johnson,Male,20,3.6,Computer Science,Data Mining,Market Analysis,Data Analyst,Strong,Average,Basic
+101,Sarah Miller,Female,21,3.7,Computer Science,Cloud Computing,Cloud Migration Specialist,Cloud Solutions Architect,Basic,Strong,Average
+102,James Wilson,Male,23,3.3,Computer Science,Human-Computer Interaction,Usability Testing,Ux Designer,Strong,Average,Basic
+103,Olivia Clark,Female,22,3.5,Computer Science,Biomedical Computing,Medical Imaging Analysis,Healthcare It Specialist,Basic,Strong,Average
+104,Andrew Hall,Male,21,3.8,Computer Science,Quantum Computing,Quantum Algorithm Development,Quantum Computing Researcher,Strong,Average,Basic
+105,David Jones,Male,22,3.7,Computer Science,Computer Graphics,Virtual Reality Development,Vr Developer,Basic,Strong,Average
+106,Elizabeth Williams,Female,21,3.3,Computer Science,Blockchain Technology,Smart Contracts Developer,Blockchain Engineer,Basic,Average,Strong
+107,Charles Miller,Male,23,3.5,Computer Science,Information Retrieval,Search Engine Optimization,Seo Specialist,Basic,Average,Strong
+108,Susan Davis,Female,22,3.8,Computer Science,Data Privacy,Privacy Compliance Officer,Data Privacy Specialist,Basic,Average,Strong
+109,John Brown,Male,20,3.6,Computer Science,Geographic Information Systems,Gis Mapping,Geospatial Analyst,Basic,Average,Strong
+110,Laura Lee,Female,21,3.9,Computer Science,Distributed Systems,Distributed Systems Architect,Distributed Systems Engineer,Basic,Average,Strong
+111,William Johnson,Male,23,3.6,Computer Science,Digital Forensics,Computer Forensic Analyst,Digital Forensics Specialist,Basic,Average,Strong
+112,Sarah Miller,Female,22,3.7,Computer Science,Bioinformatics,Protein Structure Prediction,Bioinformatician,Basic,Average,Strong
+113,James Wilson,Male,20,3.3,Computer Science,Human-Computer Interaction,User Experience Researcher,Ux Designer,Basic,Average,Strong
+114,Olivia Clark,Female,21,3.5,Computer Science,Biomedical Computing,Healthcare Data Analyst,Healthcare It Specialist,Basic,Average,Strong
+115,Andrew Hall,Male,23,3.8,Computer Science,Quantum Computing,Quantum Algorithm Development,Quantum Computing Researcher,Basic,Average,Strong
+116,Grace Smith,Female,20,3.6,Computer Science,Artificial Intelligence,Neural Network Development,Ai Researcher,Strong,Average,Basic
+117,Michael Johnson,Male,22,3.4,Computer Science,Data Science,Big Data Analytics,Data Analyst,Average,Strong,Basic
+118,Olivia Davis,Female,21,3.9,Computer Science,Software Development,Mobile App Development,Software Engineer,Strong,Strong,Average
+119,William Brown,Male,23,3.7,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+120,Emily Wilson,Female,22,3.5,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+121,David Lee,Male,21,3.8,Computer Science,Machine Learning,Image Classification,Machine Learning Engineer,Strong,Basic,Basic
+122,Sophia Miller,Female,20,3.7,Computer Science,Database Management,Sql Database Design,Database Administrator,Basic,Strong,Average
+123,James Wilson,Male,23,3.3,Computer Science,Cloud Computing,Cloud Infrastructure Management,Cloud Solutions Architect,Strong,Basic,Basic
+124,Emma Clark,Female,22,3.5,Computer Science,Mobile App Development,Ios App Development,Mobile App Developer,Average,Strong,Basic
+125,Matthew Hall,Male,21,3.8,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Basic,Basic
+126,Olivia Davis,Female,22,3.7,Computer Science,Web Development,Full-Stack Web App,Web Developer,Basic,Strong,Strong
+127,William Smith,Male,23,3.3,Computer Science,Mobile App Development,Android App Development,Mobile App Developer,Average,Basic,Strong
+128,Emily Johnson,Female,20,3.5,Computer Science,Computer Graphics,3D Modeling,Graphics Programmer,Basic,Average,Strong
+129,David Brown,Male,22,3.8,Computer Science,Software Engineering,Enterprise Software Development,Software Engineer,Strong,Strong,Average
+130,Sophia Wilson,Female,21,3.7,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+131,James Miller,Male,23,3.3,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Strong,Basic
+132,Emma Johnson,Female,22,3.5,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Basic,Strong,Average
+133,Matthew Lee,Male,21,3.8,Computer Science,Artificial Intelligence,Computer Vision,Ai Researcher,Strong,Average,Basic
+134,Oliver Davis,Male,23,3.7,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+135,Isabella Brown,Female,20,3.6,Computer Science,Software Development,Web Application Development,Software Engineer,Strong,Basic,Strong
+136,Elijah Smith,Male,22,3.4,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+137,Ava Miller,Female,21,3.9,Computer Science,Cybersecurity,Security Auditing,Information Security Analyst,Strong,Average,Basic
+138,Liam Wilson,Male,23,3.7,Computer Science,Machine Learning,Natural Language Processing,Machine Learning Engineer,Strong,Average,Basic
+139,Sophia Johnson,Female,22,3.5,Computer Science,Database Management,Sql Database Administration,Database Administrator,Basic,Strong,Average
+140,Michael Brown,Male,21,3.8,Computer Science,Cloud Computing,Cloud Solution Architecture,Cloud Solutions Architect,Strong,Strong,Basic
+141,Emily Lee,Female,20,3.7,Computer Science,Mobile App Development,Cross-Platform App Development,Mobile App Developer,Basic,Strong,Average
+142,William Davis,Male,23,3.3,Computer Science,Artificial Intelligence,Reinforcement Learning,Ai Researcher,Strong,Basic,Average
+143,Olivia Brown,Female,22,3.5,Computer Science,Data Science,Data Mining,Data Analyst,Average,Basic,Strong
+144,John Smith,Male,21,3.6,Computer Science,Web Development,Front-End Development,Web Developer,Basic,Strong,Average
+145,Alice Johnson,Female,20,3.7,Computer Science,Machine Learning,Computer Vision,Machine Learning Engineer,Strong,Average,Basic
+146,Charlotte Davis,Female,22,3.7,Computer Science,Artificial Intelligence,Reinforcement Learning,Ai Researcher,Strong,Average,Basic
+147,Joseph Miller,Male,21,3.6,Computer Science,Data Science,Machine Learning,Data Scientist,Strong,Average,Basic
+148,Emma Wilson,Female,20,3.8,Computer Science,Software Development,Mobile App Development,Software Engineer,Strong,Strong,Average
+149,Oliver Brown,Male,23,3.7,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+150,Sophia Johnson,Female,22,3.5,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+151,William Smith,Male,21,3.9,Computer Science,Machine Learning,Image Classification,Machine Learning Engineer,Strong,Average,Basic
+152,Charlotte Davis,Female,22,3.7,Computer Science,Database Management,Sql Database Design,Database Administrator,Basic,Strong,Average
+153,James Wilson,Male,20,3.6,Computer Science,Cloud Computing,Cloud Infrastructure Management,Cloud Solutions Architect,Strong,Basic,Basic
+154,Olivia Clark,Female,21,3.5,Computer Science,Mobile App Development,Ios App Development,Mobile App Developer,Basic,Strong,Average
+155,Matthew Hall,Male,23,3.8,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Basic,Basic
+156,Elijah Davis,Male,22,3.7,Computer Science,Web Development,Full-Stack Web App,Web Developer,Basic,Strong,Strong
+157,Emma Johnson,Female,20,3.6,Computer Science,Cybersecurity,Security Auditing,Information Security Analyst,Strong,Average,Basic
+158,Liam Wilson,Male,21,3.4,Computer Science,Machine Learning,Natural Language Processing,Machine Learning Engineer,Strong,Average,Basic
+159,Sophia Johnson,Female,22,3.5,Computer Science,Database Management,Sql Database Administration,Database Administrator,Basic,Strong,Average
+160,Michael Brown,Male,23,3.7,Computer Science,Cloud Computing,Cloud Solution Architecture,Cloud Solutions Architect,Strong,Strong,Basic
+161,Emily Lee,Female,20,3.8,Computer Science,Mobile App Development,Cross-Platform App Development,Mobile App Developer,Basic,Strong,Average
+162,William Davis,Male,21,3.7,Computer Science,Artificial Intelligence,Reinforcement Learning,Ai Researcher,Strong,Basic,Average
+163,Olivia Brown,Female,22,3.5,Computer Science,Data Science,Data Mining,Data Analyst,Average,Basic,Strong
+164,John Smith,Male,23,3.6,Computer Science,Web Development,Front-End Development,Web Developer,Basic,Strong,Average
+165,Alice Johnson,Female,20,3.7,Computer Science,Machine Learning,Computer Vision,Machine Learning Engineer,Strong,Average,Basic
+166,Charlotte Davis,Female,22,3.7,Computer Science,Artificial Intelligence,Neural Network Development,Ai Researcher,Strong,Average,Basic
+167,Joseph Miller,Male,21,3.6,Computer Science,Data Science,Big Data Analytics,Data Analyst,Average,Strong,Basic
+168,Emma Wilson,Female,20,3.8,Computer Science,Software Development,Mobile App Development,Software Engineer,Strong,Strong,Average
+169,Oliver Brown,Male,23,3.7,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+170,Sophia Johnson,Female,22,3.5,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+171,William Smith,Male,21,3.9,Computer Science,Machine Learning,Image Classification,Machine Learning Engineer,Strong,Average,Basic
+172,Charlotte Davis,Female,22,3.7,Computer Science,Database Management,Sql Database Design,Database Administrator,Basic,Strong,Average
+173,James Wilson,Male,20,3.6,Computer Science,Cloud Computing,Cloud Infrastructure Management,Cloud Solutions Architect,Strong,Basic,Basic
+174,Olivia Clark,Female,21,3.5,Computer Science,Mobile App Development,Ios App Development,Mobile App Developer,Basic,Strong,Average
+175,Matthew Hall,Male,23,3.8,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Basic,Basic
+176,Elijah Davis,Male,22,3.7,Computer Science,Web Development,Full-Stack Web App,Web Developer,Basic,Strong,Strong
+177,Emma Johnson,Female,20,3.6,Computer Science,Cybersecurity,Security Auditing,Information Security Analyst,Strong,Average,Basic
+178,Liam Wilson,Male,21,3.4,Computer Science,Machine Learning,Natural Language Processing,Machine Learning Engineer,Strong,Average,Basic
+179,Sophia Johnson,Female,22,3.5,Computer Science,Database Management,Sql Database Administration,Database Administrator,Basic,Strong,Average
+180,Michael Brown,Male,23,3.7,Computer Science,Cloud Computing,Cloud Solution Architecture,Cloud Solutions Architect,Strong,Strong,Basic
+181,Rhino,Male,22,3.5323046476747497,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Average,Basic,Strong
+182,Emma Johnson,Female,19,3.446312707260511,Computer Science,Cybersecurity,Security Auditing,Information Security Analyst,Strong,Average,Basic
+183,Liz Allan,Female,22,3.477048859697184,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+184,Doctor Octopus,Male,22,3.793647319265456,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Strong,Strong,Average
+185,Liz Allan,Female,22,3.29699888187148,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+186,Charlotte Davis,Female,22,3.580369286858528,Computer Science,Artificial Intelligence,Neural Network Development,Ai Researcher,Strong,Average,Basic
+187,Charlotte Davis,Female,21,3.6480424369698823,Computer Science,Database Management,Sql Database Design,Database Administrator,Basic,Strong,Average
+188,Laura Lee,Female,21,3.889718635346756,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Basic
+189,Hydro-Man,Male,20,3.8411222995641454,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Average,Basic,Strong
+190,Sophia Wilson,Female,20,3.601007521167446,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+191,Emily Wilson,Female,22,3.746621708964626,Computer Science,Web Development,Full-Stack Web App,Web Developer,Basic,Strong,Strong
+192,Silver Sable,Female,21,3.877475160126062,Computer Science,Computer Graphics,3D Modeling,Graphics Programmer,Basic,Average,Strong
+193,John Brown,Male,19,3.4821119382892114,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+194,Green Goblin,Male,21,3.489805819918076,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+195,Aim,Male,21,3.601417937161514,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+196,Betty Brant,Female,22,3.6249640724325904,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+197,Taskmaster,Male,24,3.939238697772731,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+198,Laura Lee,Female,20,3.883793635121017,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Basic
+199,Black Cat,Female,20,3.480607309616895,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+200,Elizabeth Williams,Female,20,3.318759258673885,Computer Science,Mobile App Development,Ios App,Mobile App Developer,Average,Basic,Strong
+201,Liam Wilson,Male,22,3.3688423260140747,Computer Science,Machine Learning,Natural Language Processing,Machine Learning Engineer,Strong,Average,Basic
+202,William Johnson,Male,23,3.5139862774807407,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Strong,Basic
+203,Liam Wilson,Male,21,3.434521387325643,Computer Science,Machine Learning,Natural Language Processing,Machine Learning Engineer,Strong,Average,Basic
+204,Modok,Male,21,3.284187991433764,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+205,Matthew Hall,Male,22,3.823656866872136,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Basic,Basic
+206,Rhino,Male,20,3.793084559315538,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Average,Basic,Strong
+207,Charlotte Davis,Female,23,3.703951756965988,Computer Science,Artificial Intelligence,Neural Network Development,Ai Researcher,Strong,Average,Basic
+208,Rhino,Male,22,3.668722362275423,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Average,Basic,Strong
+209,Andrew Hall,Male,22,3.6220364205348217,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+210,Olivia Clark,Female,22,3.4388370691608667,Computer Science,Biomedical Computing,Healthcare Data Analyst,Game Developer,Basic,Average,Strong
+211,James Wilson,Male,24,3.180055870964982,Computer Science,Cloud Computing,Cloud Infrastructure Management,Cloud Solutions Architect,Strong,Basic,Basic
+212,Agent Hill,Female,30,3.7080808104861274,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+213,Sophia Johnson,Female,23,3.380207388269989,Computer Science,Database Management,Sql Database Administration,Database Administrator,Basic,Strong,Average
+214,Liam Wilson,Male,21,3.4294819493852864,Computer Science,Machine Learning,Natural Language Processing,Machine Learning Engineer,Strong,Average,Basic
+215,John Smith,Male,24,3.5679239336602104,Computer Science,Web Development,Front-End Development,Web Developer,Basic,Strong,Average
+216,Michael Brown,Male,22,3.775229900151097,Computer Science,Cloud Computing,Cloud Solution Architecture,Cloud Solutions Architect,Strong,Strong,Basic
+217,Mysterio,Male,19,3.2316730796557613,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+218,Vulture,Male,22,3.839046454189602,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+219,Matthew Lee,Male,21,3.7775714051195015,Computer Science,Artificial Intelligence,Computer Vision,Ai Researcher,Strong,Average,Basic
+220,Emily Lee,Female,19,3.810599219726294,Computer Science,Mobile App Development,Cross-Platform App Development,Mobile App Developer,Basic,Strong,Average
+221,Sarah Miller,Female,21,3.7558485562335626,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Basic,Strong,Average
+222,Elizabeth Williams,Female,20,3.0895852199202523,Computer Science,Mobile App Development,Ios App,Mobile App Developer,Average,Basic,Strong
+223,John Brown,Male,20,3.612017935797406,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+224,Andrew Hall,Male,20,3.741167360429276,Computer Science,Quantum Computing,Quantum Algorithm Development,Quantum Computing Researcher,Strong,Average,Basic
+225,William Johnson,Male,23,3.74830946144008,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Strong,Basic
+226,Laura Lee,Female,22,3.981702202435581,Computer Science,Distributed Systems,Distributed Systems Architect,Data Privacy Specialist,Basic,Average,Strong
+227,Jessica Jones,Female,23,3.55518989155359,Computer Science,Cloud Computing,Gcp Deployment,Cloud Solutions Architect,Strong,Strong,Average
+228,Olivia Brown,Female,20,3.4328857935975816,Computer Science,Game Development,Mobile Game Development,Game Developer,Basic,Strong,Average
+229,David Brown,Male,22,3.945441077447556,Computer Science,Software Engineering,Enterprise Software Development,Software Engineer,Strong,Strong,Average
+230,Grace Smith,Female,20,3.517214295700276,Computer Science,Artificial Intelligence,Neural Network Development,Ai Researcher,Strong,Average,Basic
+231,Elijah Davis,Male,21,3.6679600571011863,Computer Science,Web Development,Full-Stack Web App,Web Developer,Basic,Strong,Strong
+232,Michael Brown,Male,23,3.684831465142683,Computer Science,Cloud Computing,Cloud Solution Architecture,Cloud Solutions Architect,Strong,Strong,Basic
+233,Olivia Clark,Female,21,3.3611547964835475,Computer Science,Biomedical Computing,Medical Imaging Analysis,Healthcare It Specialist,Basic,Strong,Average
+234,Joseph Miller,Male,22,3.3603245181497243,Computer Science,Data Science,Machine Learning,Data Scientist,Strong,Average,Basic
+235,Peter Parker,Male,19,3.208136252321531,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+236,Charles Miller,Male,23,3.6060931670914114,Computer Science,Computer Graphics,Game Development,Game Developer,Basic,Average,Strong
+237,John Smith,Male,23,3.4879576363388254,Computer Science,Cybersecurity,Penetration Testing,Information Security Analyst,Strong,Strong,Average
+238,Sarah Miller,Female,21,3.709726106858744,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Basic,Strong,Average
+239,Agent Coulson,Male,30,3.9585072647303545,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Strong,Strong,Average
+240,Elizabeth Williams,Female,22,3.411762609547702,Computer Science,Mobile App Development,Ios App,Mobile App Developer,Average,Basic,Strong
+241,Michael Brown,Male,24,3.4058753463588705,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+242,Black Cat,Female,22,3.5890670385649663,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+243,Elizabeth Williams,Female,21,3.166218250896724,Computer Science,Mobile App Development,Ios App,Mobile App Developer,Average,Basic,Strong
+244,Sophia Wilson,Female,21,3.6961736752114094,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+245,Sophia Johnson,Female,23,3.4622931907214456,Computer Science,Database Management,Sql Database Administration,Database Administrator,Basic,Strong,Average
+246,Sophia Johnson,Female,23,3.3651487050408564,Computer Science,Database Management,Sql Database Administration,Database Administrator,Basic,Strong,Average
+247,John Smith,Male,22,3.698261901582011,Computer Science,Cybersecurity,Penetration Testing,Information Security Analyst,Strong,Strong,Average
+248,Michael Brown,Male,22,3.672217397917817,Computer Science,Cloud Computing,Cloud Solution Architecture,Cloud Solutions Architect,Strong,Strong,Basic
+249,William Johnson,Male,22,3.6594691540775295,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Strong,Basic
+250,Susan Davis,Female,23,3.738245590189813,Computer Science,Software Engineering,E-Commerce Website,Software Engineer,Strong,Strong,Average
+251,Ned Leeds,Male,21,3.2533661315096483,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Average,Basic,Strong
+252,Sophia Wilson,Female,22,3.5820584130348005,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+253,James Wilson,Male,19,3.692641056535303,Computer Science,Cloud Computing,Cloud Infrastructure Management,Cloud Solutions Architect,Strong,Basic,Basic
+254,Robert Davis,Male,21,3.763228024870202,Computer Science,Software Engineering,Devops,Devops Engineer,Strong,Average,Basic
+255,Andrew Hall,Male,20,3.6225648378794615,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+256,Susan Davis,Female,23,3.730659761855109,Computer Science,Software Engineering,E-Commerce Website,Software Engineer,Strong,Strong,Average
+257,Emma Wilson,Female,20,4.0,Computer Science,Software Development,Mobile App Development,Software Engineer,Strong,Strong,Average
+258,Liz Allan,Female,22,3.589060801429608,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+259,Michelle Williams,Female,20,3.3445729134607487,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+260,Sophia Johnson,Female,21,3.428024801698652,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+261,Agent Fitz,Male,30,3.7688995980414575,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+262,Ava Miller,Female,21,3.556921425712536,Computer Science,Machine Learning,Deep Learning Models,Machine Learning Engineer,Strong,Average,Basic
+263,Laura Lee,Female,21,3.9430526562601735,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Basic
+264,Scorpion,Male,21,3.375165017716672,Computer Science,Computer Graphics,3D Animation,Graphics Programmer,Basic,Average,Strong
+265,Olivia Clark,Female,20,3.6271594487219856,Computer Science,Computer Graphics,3D Rendering,Graphics Programmer,Basic,Average,Strong
+266,Sarah Miller,Female,22,3.6768130074255847,Computer Science,Bioinformatics,Protein Structure Prediction,Bioinformatician,Basic,Average,Strong
+267,Liam Wilson,Male,20,3.3374827553827027,Computer Science,Machine Learning,Natural Language Processing,Machine Learning Engineer,Strong,Average,Basic
+268,Sarah Miller,Female,21,3.7671179511930335,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Basic,Strong,Average
+269,Sandman,Male,22,3.663094477319596,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+270,Ava Miller,Female,20,3.6881783015760514,Computer Science,Machine Learning,Deep Learning Models,Machine Learning Engineer,Strong,Average,Basic
+271,Sophia Wilson,Female,22,3.811049999763029,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+272,Olivia Clark,Female,20,3.310416233086724,Computer Science,Computer Graphics,3D Rendering,Graphics Programmer,Basic,Average,Strong
+273,Laura Lee,Female,22,3.945231928182079,Computer Science,Distributed Systems,Distributed Systems Architect,Data Privacy Specialist,Basic,Average,Strong
+274,Elizabeth Williams,Female,22,3.317899989542334,Computer Science,Mobile App Development,Ios App,Mobile App Developer,Average,Basic,Strong
+275,Sarah Miller,Female,23,3.765523641921468,Computer Science,Bioinformatics,Protein Structure Prediction,Bioinformatician,Basic,Average,Strong
+276,James Wilson,Male,19,3.4469894711580973,Computer Science,Human-Computer Interaction,User Experience Researcher,Ux Designer,Basic,Average,Strong
+277,Rhino,Male,21,3.737242034574322,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Average,Basic,Strong
+278,Agent Fitz,Male,30,3.916540646130545,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+279,John Brown,Male,21,3.54193585289007,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+280,John Smith,Male,24,3.667352694815761,Computer Science,Web Development,Front-End Development,Web Developer,Basic,Strong,Average
+281,Taskmaster,Male,23,3.87118817465896,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+282,William Smith,Male,20,3.842410002369651,Computer Science,Machine Learning,Image Classification,Machine Learning Engineer,Strong,Average,Basic
+283,Agent Hill,Female,30,3.79401794423798,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+284,Charlotte Davis,Female,21,3.7700536122355786,Computer Science,Database Management,Sql Database Design,Database Administrator,Basic,Strong,Average
+285,Matthew Lee,Male,22,3.808121376245477,Computer Science,Artificial Intelligence,Computer Vision,Ai Researcher,Strong,Average,Basic
+286,Mary Jane Watson,Female,21,3.687684329749916,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+287,Hydra,Male,22,3.527756123410656,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+288,Robert Davis,Male,21,3.833390214552866,Computer Science,Software Development,E-Commerce Website,Software Engineer,Strong,Strong,Average
+289,Jessica Jones,Female,23,3.584573661365506,Computer Science,Cloud Computing,Gcp Deployment,Cloud Solutions Architect,Strong,Strong,Average
+290,Alice Johnson,Female,20,3.672193650749886,Computer Science,Machine Learning,Computer Vision,Machine Learning Engineer,Strong,Average,Basic
+291,Laura Lee,Female,22,3.805158129360704,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Basic
+292,Robert Davis,Male,21,3.811300139129503,Computer Science,Software Engineering,Devops,Devops Engineer,Strong,Average,Basic
+293,Elizabeth Williams,Female,20,3.247771707529999,Computer Science,Blockchain Technology,Smart Contracts Developer,Blockchain Engineer,Basic,Average,Strong
+294,Susan Davis,Female,22,3.750519643408274,Computer Science,Software Engineering,E-Commerce Website,Software Engineer,Strong,Strong,Average
+295,Elizabeth Williams,Female,20,3.363910105891855,Computer Science,Mobile App Development,Ios App,Mobile App Developer,Average,Basic,Strong
+296,Olivia Clark,Female,21,3.508354000382322,Computer Science,Biomedical Computing,Medical Imaging Analysis,Healthcare It Specialist,Basic,Strong,Average
+297,Susan Davis,Female,23,3.8753726313317354,Computer Science,Data Privacy,Privacy Compliance Officer,Data Privacy Specialist,Basic,Average,Strong
+298,Matthew Lee,Male,20,3.805811900710064,Computer Science,Artificial Intelligence,Computer Vision,Ai Researcher,Strong,Average,Basic
+299,Alice Johnson,Female,19,3.0697261518744883,Computer Science,Computer Vision,Object Detection,Computer Vision Engineer,Strong,Average,Basic
+300,William Davis,Male,23,3.298002461843262,Computer Science,Artificial Intelligence,Reinforcement Learning,Ai Researcher,Strong,Basic,Average
+301,Emily Lee,Female,19,3.65596126403049,Computer Science,Mobile App Development,Cross-Platform App Development,Mobile App Developer,Basic,Strong,Average
+302,James Wilson,Male,20,3.660021310982016,Computer Science,Cloud Computing,Cloud Infrastructure Management,Cloud Solutions Architect,Strong,Basic,Basic
+303,Liam Wilson,Male,21,3.427307893966782,Computer Science,Machine Learning,Natural Language Processing,Machine Learning Engineer,Strong,Average,Basic
+304,Emma Johnson,Female,19,3.4988298372724698,Computer Science,Cybersecurity,Security Auditing,Information Security Analyst,Strong,Average,Basic
+305,Elizabeth Williams,Female,20,3.20904183074838,Computer Science,Blockchain Technology,Smart Contracts Developer,Blockchain Engineer,Basic,Average,Strong
+306,Alice Johnson,Female,19,3.131875146789363,Computer Science,Data Science,Data Analytics,Data Scientist,Average,Strong,Basic
+307,William Johnson,Male,21,3.349819068421524,Computer Science,Data Mining,Market Analysis,Data Analyst,Strong,Average,Basic
+308,Charlotte Davis,Female,23,3.5976646963902628,Computer Science,Artificial Intelligence,Neural Network Development,Ai Researcher,Strong,Average,Basic
+309,Black Cat,Female,22,3.622954501284906,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+310,David Jones,Male,23,3.554048504033676,Computer Science,Computer Graphics,Virtual Reality Development,Vr Developer,Basic,Strong,Average
+311,Peter Parker,Male,21,3.294249374058765,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+312,James Wilson,Male,24,3.1687604248478696,Computer Science,Human-Computer Interaction,Usability Testing,Ux Designer,Strong,Average,Basic
+313,Olivia Brown,Female,21,3.326334958748214,Computer Science,Game Development,Mobile Game Development,Game Developer,Basic,Strong,Average
+314,Michael Brown,Male,20,3.864196977085459,Computer Science,Web Development,Front-End Development,Web Developer,Strong,Average,Basic
+315,Emily Lee,Female,21,3.79940751052101,Computer Science,Data Science,Statistical Analysis,Data Analyst,Strong,Average,Basic
+316,James Wilson,Male,21,3.5080272668488863,Computer Science,Cloud Computing,Cloud Infrastructure Management,Cloud Solutions Architect,Strong,Basic,Basic
+317,Hydro-Man,Male,20,3.5481113242847218,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Average,Basic,Strong
+318,William Brown,Male,23,3.881484448182618,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+319,Elijah Davis,Male,23,3.66520883736012,Computer Science,Web Development,Full-Stack Web App,Web Developer,Basic,Strong,Strong
+320,Eddie Brock,Male,21,3.6612761417956734,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+321,John Brown,Male,19,3.581973244549143,Computer Science,Geographic Information Systems,Gis Mapping,Geospatial Analyst,Basic,Average,Strong
+322,Olivia Clark,Female,21,3.5949256402731384,Computer Science,Computer Graphics,3D Rendering,Graphics Programmer,Basic,Average,Strong
+323,Elijah Davis,Male,23,3.8226666428259928,Computer Science,Web Development,Full-Stack Web App,Web Developer,Basic,Strong,Strong
+324,David Lee,Male,22,3.758830331379172,Computer Science,Machine Learning,Image Classification,Machine Learning Engineer,Strong,Basic,Basic
+325,Vulture,Male,23,3.774120657616805,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+326,Doctor Octopus,Male,22,3.6785090428591984,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Strong,Strong,Average
+327,Emma Johnson,Female,20,3.781710255020809,Computer Science,Cybersecurity,Security Auditing,Information Security Analyst,Strong,Average,Basic
+328,Shocker,Male,21,3.370032815360092,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+329,Liz Allan,Female,22,3.6531492128755767,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+330,Aim,Male,22,3.637827942487941,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+331,John Smith,Male,20,3.535235351784721,Computer Science,Web Development,Front-End Development,Web Developer,Basic,Strong,Average
+332,Sophia Johnson,Female,23,3.405368426510182,Computer Science,Database Management,Sql Database Administration,Database Administrator,Basic,Strong,Average
+333,Andrew Hall,Male,24,3.8520686940596183,Computer Science,Quantum Computing,Quantum Algorithm Development,Quantum Computing Researcher,Basic,Average,Strong
+334,Andrew Hall,Male,24,3.758463228813038,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+335,John Smith,Male,22,3.628334919336944,Computer Science,Web Development,Front-End Development,Web Developer,Basic,Strong,Average
+336,Sarah Miller,Female,23,3.693043575465609,Computer Science,Bioinformatics,Protein Structure Prediction,Bioinformatician,Basic,Average,Strong
+337,Andrew Hall,Male,24,3.677162848372421,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+338,Shocker,Male,21,3.441346521431581,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+339,Ned Leeds,Male,19,3.4904103660278847,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Average,Basic,Strong
+340,William Davis,Male,24,3.390990830922925,Computer Science,Artificial Intelligence,Reinforcement Learning,Ai Researcher,Strong,Basic,Average
+341,Olivia Brown,Female,22,3.5460497789880896,Computer Science,Data Science,Data Mining,Data Analyst,Average,Basic,Strong
+342,Laura Lee,Female,21,3.858978141029379,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Basic
+343,Agent Bobbi Morse,Female,28,3.7595375684372847,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+344,David Jones,Male,22,3.821003632597332,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+345,Michelle Williams,Female,20,3.2341789886798487,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+346,David Jones,Male,21,3.624575867903729,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+347,James Wilson,Male,19,3.3729830727407903,Computer Science,Mobile App Development,Android App,Mobile App Developer,Average,Basic,Strong
+348,Michael Brown,Male,23,3.767263154892461,Computer Science,Cloud Computing,Cloud Solution Architecture,Cloud Solutions Architect,Strong,Strong,Basic
+349,Andrew Hall,Male,21,3.9085968162138833,Computer Science,Quantum Computing,Quantum Algorithm Development,Quantum Computing Researcher,Strong,Average,Basic
+350,Susan Davis,Female,21,3.902271216529702,Computer Science,Software Engineering,E-Commerce Website,Software Engineer,Strong,Strong,Average
+351,Taskmaster,Male,24,3.825281339014248,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+352,David Jones,Male,23,3.7511960083692735,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+353,Kingpin,Male,21,3.391830713850948,Computer Science,Computer Graphics,3D Animation,Graphics Programmer,Basic,Average,Strong
+354,Olivia Clark,Female,21,3.6565143071148314,Computer Science,Biomedical Computing,Medical Imaging Analysis,Healthcare It Specialist,Basic,Strong,Average
+355,Sophia Johnson,Female,23,3.480353243653833,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+356,Elizabeth Williams,Female,21,3.3919577068253832,Computer Science,Mobile App Development,Ios App,Mobile App Developer,Average,Basic,Strong
+357,Emily Lee,Female,19,3.670873954776075,Computer Science,Mobile App Development,Cross-Platform App Development,Mobile App Developer,Basic,Strong,Average
+358,James Wilson,Male,20,3.528628673267332,Computer Science,Cloud Computing,Cloud Infrastructure Management,Cloud Solutions Architect,Strong,Basic,Basic
+359,Emily Wilson,Female,22,3.42930445007394,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+360,Olivia Clark,Female,22,3.393307774971204,Computer Science,Computer Graphics,3D Rendering,Graphics Programmer,Basic,Average,Strong
+361,Black Cat,Female,22,3.89753780302288,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+362,Olivia Clark,Female,23,3.529152381659732,Computer Science,Biomedical Computing,Medical Imaging Analysis,Healthcare It Specialist,Basic,Strong,Average
+363,Matthew Hall,Male,22,3.885719841217736,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Basic,Basic
+364,Laura Lee,Female,22,3.804936989871237,Computer Science,Natural Language Processing,Chatbot Development,Nlp Engineer,Strong,Average,Basic
+365,William Smith,Male,20,3.984463769167748,Computer Science,Machine Learning,Image Classification,Machine Learning Engineer,Strong,Average,Basic
+366,Oliver Brown,Male,23,3.7226164952544423,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+367,John Brown,Male,21,3.7668093740216326,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+368,Aim,Female,22,3.647838483355622,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+369,Charlotte Davis,Female,23,3.602830027331352,Computer Science,Database Management,Sql Database Design,Database Administrator,Basic,Strong,Average
+370,Sophia Johnson,Female,21,3.4991417092912385,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+371,Andrew Hall,Male,20,3.636177778913968,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+372,Matthew Hall,Male,20,3.8713538619173935,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Basic,Basic
+373,Matthew Hall,Male,23,3.68998525764488,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Basic,Basic
+374,Michael Brown,Male,22,3.808773374607696,Computer Science,Web Development,Front-End Development,Web Developer,Strong,Average,Basic
+375,William Johnson,Male,19,3.570864729178353,Computer Science,Data Mining,Market Analysis,Data Analyst,Strong,Average,Basic
+376,Michael Brown,Male,24,3.4963130938526774,Computer Science,Iot (Internet Of Things),Smart Home Automation,Database Administrator,Basic,Strong,Average
+377,James Wilson,Male,19,3.38379620280402,Computer Science,Human-Computer Interaction,User Experience Researcher,Ux Designer,Basic,Average,Strong
+378,Mysterio,Male,21,3.264395348946602,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+379,Sophia Johnson,Female,22,3.4707537394385226,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+380,Charles Miller,Male,22,3.541708141800387,Computer Science,Computer Graphics,Game Development,Game Developer,Basic,Average,Strong
+381,Sophia Johnson,Female,23,3.3983504971424594,Computer Science,Database Management,Sql Database Administration,Database Administrator,Basic,Strong,Average
+382,Michelle Williams,Female,21,3.3939242617394743,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+383,David Jones,Male,22,3.5498570766929864,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+384,William Smith,Male,21,3.853387823062571,Computer Science,Machine Learning,Image Classification,Machine Learning Engineer,Strong,Average,Basic
+385,Peter Parker,Male,19,3.446546479880473,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+386,Emily Lee,Female,20,3.6454973761144376,Computer Science,Data Science,Statistical Analysis,Data Analyst,Strong,Average,Basic
+387,Emily Wilson,Female,22,3.6583545064192178,Computer Science,Bioinformatics,Genomic Data Analysis,Cloud Solutions Architect,Basic,Strong,Strong
+388,David Jones,Male,22,3.605300284839449,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+389,William Brown,Male,22,3.6540262301482977,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+390,Liam Wilson,Male,22,3.442424858326045,Computer Science,Machine Learning,Natural Language Processing,Machine Learning Engineer,Strong,Average,Basic
+391,Alice Johnson,Female,20,3.0920237644460133,Computer Science,Computer Vision,Object Detection,Computer Vision Engineer,Strong,Average,Basic
+392,Kingpin,Male,23,3.512019411790424,Computer Science,Computer Graphics,3D Animation,Graphics Programmer,Basic,Average,Strong
+393,Agent Simmons,Female,30,3.694563683253372,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+394,Elizabeth Williams,Female,21,3.3595969515488755,Computer Science,Mobile App Development,Ios App,Mobile App Developer,Average,Basic,Strong
+395,Laura Lee,Female,20,4.0,Computer Science,Distributed Systems,Distributed Systems Architect,Data Privacy Specialist,Basic,Average,Strong
+396,James Wilson,Male,19,3.766651957006228,Computer Science,Cloud Computing,Cloud Infrastructure Management,Cloud Solutions Architect,Strong,Basic,Basic
+397,Sarah Miller,Female,22,3.685865704557138,Computer Science,Cloud Computing,Cloud Migration Specialist,Cloud Solutions Architect,Basic,Strong,Average
+398,Matthew Hall,Male,23,3.8835750981940618,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Basic,Basic
+399,David Jones,Male,21,3.6703680935254255,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+400,Agent Fitz,Male,30,3.868983731525751,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+401,Fred Myers,Male,23,3.594003300429622,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+402,Charles Miller,Male,24,3.4046422037615245,Computer Science,Information Retrieval,Search Engine Optimization,Seo Specialist,Basic,Average,Strong
+403,Olivia Davis,Female,23,3.568334641749256,Computer Science,Web Development,Full-Stack Web App,Web Developer,Basic,Strong,Strong
+404,William Johnson,Male,20,3.5081796172989965,Computer Science,Data Mining,Market Analysis,Data Analyst,Strong,Average,Basic
+405,Aim,Male,21,3.806228888188053,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+406,Lizard,Male,21,3.56004227252829,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+407,Green Goblin,Male,20,3.612225170345988,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+408,Carnage,Male,23,3.5436097022231854,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+409,Sarah Miller,Female,20,3.808432737833752,Computer Science,Cloud Computing,Cloud Migration Specialist,Cloud Solutions Architect,Basic,Strong,Average
+410,Susan Davis,Female,23,3.793269947042873,Computer Science,Data Privacy,Privacy Compliance Officer,Data Privacy Specialist,Basic,Average,Strong
+411,William Davis,Male,22,3.4034082813881468,Computer Science,Artificial Intelligence,Reinforcement Learning,Ai Researcher,Strong,Basic,Average
+412,Joseph Miller,Male,20,3.55833804258599,Computer Science,Data Science,Machine Learning,Data Scientist,Strong,Average,Basic
+413,Agent Daisy Johnson,Female,30,3.681238399426055,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Strong,Average,Strong
+414,Andrew Hall,Male,24,3.965642102502702,Computer Science,Quantum Computing,Quantum Algorithm Development,Quantum Computing Researcher,Basic,Average,Strong
+415,Olivia Clark,Female,22,3.465310574657404,Computer Science,Mobile App Development,Ios App Development,Database Administrator,Basic,Strong,Average
+416,Michael Brown,Male,20,3.808335878230261,Computer Science,Web Development,Front-End Development,Web Developer,Strong,Average,Basic
+417,Olivia Clark,Female,20,3.436689485329947,Computer Science,Biomedical Computing,Healthcare Data Analyst,Game Developer,Basic,Average,Strong
+418,Morbius,Male,23,3.6802294877509945,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+419,William Johnson,Male,22,3.8548511826713168,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Strong,Basic
+420,James Wilson,Male,19,3.2309771575678763,Computer Science,Mobile App Development,Android App,Mobile App Developer,Average,Basic,Strong
+421,William Davis,Male,23,3.218406681623578,Computer Science,Artificial Intelligence,Reinforcement Learning,Ai Researcher,Strong,Basic,Average
+422,Emily Johnson,Female,19,3.493384357384732,Computer Science,Computer Graphics,3D Modeling,Graphics Programmer,Basic,Average,Strong
+423,Elijah Smith,Male,21,3.410887712911292,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+424,Lizard,Male,22,3.541991659775821,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+425,Matthew Lee,Male,21,3.853809533345999,Computer Science,Artificial Intelligence,Computer Vision,Ai Researcher,Strong,Average,Basic
+426,Olivia Clark,Female,21,3.3750644251822424,Computer Science,Computer Graphics,3D Rendering,Graphics Programmer,Basic,Average,Strong
+427,Grace Smith,Female,19,3.695533949172367,Computer Science,Artificial Intelligence,Neural Network Development,Ai Researcher,Strong,Average,Basic
+428,Alice Johnson,Female,20,3.6840645507107297,Computer Science,Machine Learning,Computer Vision,Machine Learning Engineer,Strong,Average,Basic
+429,David Jones,Male,21,3.811563017656183,Computer Science,Computer Graphics,Virtual Reality Development,Vr Developer,Basic,Strong,Average
+430,Sandman,Male,21,3.6764319086133455,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+431,Olivia Clark,Female,20,3.344586705092013,Computer Science,Computer Graphics,3D Rendering,Graphics Programmer,Basic,Average,Strong
+432,Michael Brown,Male,21,3.941631641478849,Computer Science,Web Development,Front-End Development,Web Developer,Strong,Average,Basic
+433,Sarah Miller,Female,23,3.8098995870218575,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Basic,Strong,Average
+434,Alice Johnson,Female,21,3.88406167639243,Computer Science,Machine Learning,Computer Vision,Machine Learning Engineer,Strong,Average,Basic
+435,David Jones,Male,21,3.750331698540344,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+436,Emily Wilson,Female,20,3.6037785137524527,Computer Science,Bioinformatics,Genomic Data Analysis,Cloud Solutions Architect,Basic,Strong,Strong
+437,Emma Johnson,Female,21,3.570017653307053,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Basic,Strong,Average
+438,Olivia Clark,Female,22,3.555649583783177,Computer Science,Computer Graphics,3D Rendering,Graphics Programmer,Basic,Average,Strong
+439,Emma Johnson,Female,19,3.604760795261297,Computer Science,Cybersecurity,Security Auditing,Information Security Analyst,Strong,Average,Basic
+440,Charles Miller,Male,22,3.527813973737378,Computer Science,Computer Graphics,Game Development,Game Developer,Basic,Average,Strong
+441,Charlotte Davis,Female,22,3.748056526260593,Computer Science,Artificial Intelligence,Reinforcement Learning,Ai Researcher,Strong,Average,Basic
+442,Mary Jane Watson,Female,20,3.687938526452812,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+443,Michael Brown,Male,23,3.1499249315685,Computer Science,Iot (Internet Of Things),Smart Home Automation,Database Administrator,Basic,Strong,Average
+444,Charlotte Davis,Female,21,3.663329136159107,Computer Science,Artificial Intelligence,Neural Network Development,Ai Researcher,Strong,Average,Basic
+445,Liam Wilson,Male,21,3.425390160172305,Computer Science,Machine Learning,Natural Language Processing,Machine Learning Engineer,Strong,Average,Basic
+446,Susan Davis,Female,21,3.887489546164974,Computer Science,Software Engineering,E-Commerce Website,Software Engineer,Strong,Strong,Average
+447,Susan Davis,Female,21,3.818011388340648,Computer Science,Software Engineering,E-Commerce Website,Software Engineer,Strong,Strong,Average
+448,Modok,Male,21,3.199890557835238,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+449,Emily Lee,Female,21,3.83220926843895,Computer Science,Mobile App Development,Cross-Platform App Development,Mobile App Developer,Basic,Strong,Average
+450,Robert Davis,Male,22,3.863338550836786,Computer Science,Software Development,E-Commerce Website,Software Engineer,Strong,Strong,Average
+451,James Wilson,Male,19,3.17645340967182,Computer Science,Mobile App Development,Android App,Mobile App Developer,Average,Basic,Strong
+452,Venom,Male,20,3.267093704549391,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+453,Andrew Hall,Male,24,3.7287509748516494,Computer Science,Quantum Computing,Quantum Algorithm Development,Quantum Computing Researcher,Basic,Average,Strong
+454,Peter Parker,Male,19,3.440441149555764,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+455,Aim,Female,22,3.7541107845707535,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+456,Hydra,Male,22,3.524690206242442,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+457,Sophia Johnson,Female,22,3.55817328365016,Computer Science,Database Management,Sql Database Administration,Database Administrator,Basic,Strong,Average
+458,Agent Hill,Female,30,3.674157976176856,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+459,Elizabeth Williams,Female,21,3.25891890178028,Computer Science,Mobile App Development,Ios App,Mobile App Developer,Average,Basic,Strong
+460,Agent Daisy Johnson,Female,30,3.5395451121029926,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Strong,Average,Strong
+461,David Jones,Male,21,3.789487848975642,Computer Science,Computer Graphics,Virtual Reality Development,Vr Developer,Basic,Strong,Average
+462,Susan Davis,Female,22,3.644002336337668,Computer Science,Software Engineering,E-Commerce Website,Software Engineer,Strong,Strong,Average
+463,Olivia Davis,Female,20,3.861292462794056,Computer Science,Software Development,Mobile App Development,Software Engineer,Strong,Strong,Average
+464,Agent Daisy Johnson,Female,28,3.373918215964149,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Strong,Average,Strong
+465,Charlotte Davis,Female,21,3.514858100954514,Computer Science,Artificial Intelligence,Neural Network Development,Ai Researcher,Strong,Average,Basic
+466,David Jones,Male,23,3.7587582271319233,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+467,Sophia Johnson,Female,22,3.4122440453497687,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+468,Sandman,Male,23,3.594024590120012,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+469,Emily Lee,Female,20,3.710390646719972,Computer Science,Mobile App Development,Cross-Platform App Development,Mobile App Developer,Basic,Strong,Average
+470,Sophia Johnson,Female,23,3.530629521975573,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+471,Sandman,Male,21,3.596904526366653,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+472,Andrew Hall,Male,21,3.765877153442141,Computer Science,Quantum Computing,Quantum Algorithm Development,Quantum Computing Researcher,Strong,Average,Basic
+473,Olivia Brown,Female,22,3.544183981687944,Computer Science,Game Development,Mobile Game Development,Game Developer,Basic,Strong,Average
+474,Agent Mack,Male,30,3.661572984875087,Computer Science,Computer Graphics,3D Animation,Graphics Programmer,Basic,Average,Strong
+475,Charlotte Davis,Female,21,3.607534281760047,Computer Science,Artificial Intelligence,Neural Network Development,Ai Researcher,Strong,Average,Basic
+476,Agent Lance Hunter,Male,30,3.648713505043104,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+477,Andrew Hall,Male,23,3.7520952527615417,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+478,Joseph Miller,Male,21,3.4786318858068834,Computer Science,Data Science,Machine Learning,Data Scientist,Strong,Average,Basic
+479,Andrew Hall,Male,23,3.871006684265218,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+480,Emma Wilson,Female,21,3.652631745192184,Computer Science,Software Development,Mobile App Development,Software Engineer,Strong,Strong,Average
+481,Grace Smith,Female,21,3.7010133118636,Computer Science,Artificial Intelligence,Neural Network Development,Ai Researcher,Strong,Average,Basic
+482,Sarah Miller,Female,22,3.696027252180781,Computer Science,Cloud Computing,Cloud Migration Specialist,Cloud Solutions Architect,Basic,Strong,Average
+483,Sophia Wilson,Female,21,3.620757854929353,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+484,Emily Wilson,Female,23,3.641430837292358,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+485,Emma Johnson,Female,21,3.5999910631537877,Computer Science,Cybersecurity,Security Auditing,Information Security Analyst,Strong,Average,Basic
+486,Emma Johnson,Female,19,3.637024366085551,Computer Science,Cybersecurity,Security Auditing,Information Security Analyst,Strong,Average,Basic
+487,Emily Lee,Female,20,3.7078298483474232,Computer Science,Mobile App Development,Cross-Platform App Development,Mobile App Developer,Basic,Strong,Average
+488,Isabella Brown,Female,20,3.446398277633366,Computer Science,Software Development,Web Application Development,Software Engineer,Strong,Basic,Strong
+489,John Brown,Male,20,3.634237317662827,Computer Science,Geographic Information Systems,Gis Mapping,Geospatial Analyst,Basic,Average,Strong
+490,Silver Sable,Female,22,3.723169125048868,Computer Science,Computer Graphics,3D Modeling,Graphics Programmer,Basic,Average,Strong
+491,Matthew Hall,Male,22,3.8432370784849192,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Basic,Basic
+492,Charlotte Davis,Female,22,3.6002414185506435,Computer Science,Database Management,Sql Database Design,Database Administrator,Basic,Strong,Average
+493,Kraven The Hunter,Male,21,3.753722011308877,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+494,Oliver Brown,Male,24,3.657982442698823,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+495,Emma Wilson,Female,21,3.5279711208370106,Computer Science,Software Development,Mobile App Development,Software Engineer,Strong,Strong,Average
+496,Mary Jane Watson,Female,20,3.7446475259818808,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+497,Matthew Hall,Male,23,3.568977041270764,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Basic,Basic
+498,Oliver Davis,Male,24,3.485317790471395,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+499,Sophia Wilson,Female,22,3.6856791913454727,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+500,Sophia Johnson,Female,23,3.505433694247257,Computer Science,Software Development,Embedded Systems,Embedded Software Engineer,Basic,Strong,Average
+501,David Jones,Male,23,3.6927226340452792,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+502,Emily Lee,Female,20,3.635949488832092,Computer Science,Data Science,Statistical Analysis,Data Analyst,Strong,Average,Basic
+503,Sophia Johnson,Female,23,3.327169988768848,Computer Science,Database Management,Sql Database Administration,Database Administrator,Basic,Strong,Average
+504,Sarah Miller,Female,22,3.826753852803795,Computer Science,Bioinformatics,Protein Structure Prediction,Bioinformatician,Basic,Average,Strong
+505,Olivia Clark,Female,22,3.48080593832683,Computer Science,Biomedical Computing,Healthcare Data Analyst,Game Developer,Basic,Average,Strong
+506,Lizard,Male,21,3.3653513282248406,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+507,Liam Wilson,Male,22,3.620374337443815,Computer Science,Machine Learning,Natural Language Processing,Machine Learning Engineer,Strong,Average,Basic
+508,James Wilson,Male,21,3.289783292459394,Computer Science,Mobile App Development,Android App,Mobile App Developer,Average,Basic,Strong
+509,Grace Smith,Female,19,3.565745949140984,Computer Science,Artificial Intelligence,Neural Network Development,Ai Researcher,Strong,Average,Basic
+510,Liam Wilson,Male,24,3.701642260191453,Computer Science,Machine Learning,Natural Language Processing,Machine Learning Engineer,Strong,Average,Basic
+511,Oliver Brown,Male,23,3.7402268845072615,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+512,Michael Brown,Male,24,3.8136996863916486,Computer Science,Cloud Computing,Cloud Solution Architecture,Cloud Solutions Architect,Strong,Strong,Basic
+513,Emma Clark,Female,23,3.552005491741173,Computer Science,Mobile App Development,Ios App Development,Mobile App Developer,Average,Strong,Basic
+514,Matthew Lee,Male,21,3.784166491188183,Computer Science,Artificial Intelligence,Computer Vision,Ai Researcher,Strong,Average,Basic
+515,John Brown,Male,21,3.617291001130504,Computer Science,Geographic Information Systems,Gis Mapping,Geospatial Analyst,Basic,Average,Strong
+516,Charles Miller,Male,23,3.4935834881067978,Computer Science,Computer Graphics,Game Development,Game Developer,Basic,Average,Strong
+517,William Smith,Male,23,3.2104265112510264,Computer Science,Mobile App Development,Android App Development,Mobile App Developer,Average,Basic,Strong
+518,Andrew Hall,Male,21,3.816058415799675,Computer Science,Quantum Computing,Quantum Algorithm Development,Quantum Computing Researcher,Strong,Average,Basic
+519,Sophia Wilson,Female,20,3.7434964108010056,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+520,William Johnson,Male,20,3.636399922161776,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Strong,Basic
+521,Charles Miller,Male,23,3.567811485100464,Computer Science,Computer Graphics,Game Development,Game Developer,Basic,Average,Strong
+522,James Wilson,Male,23,3.24056769607345,Computer Science,Mobile App Development,Android App,Mobile App Developer,Average,Basic,Strong
+523,John Smith,Male,24,3.5982141732898247,Computer Science,Web Development,Front-End Development,Web Developer,Basic,Strong,Average
+524,Laura Lee,Female,22,3.8069749260081593,Computer Science,Natural Language Processing,Chatbot Development,Nlp Engineer,Strong,Average,Basic
+525,Oliver Brown,Male,24,3.8280644132646207,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+526,Hydro-Man,Male,22,3.693727472741184,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Average,Basic,Strong
+527,John Brown,Male,19,3.6595927737079226,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+528,John Brown,Male,20,3.66036594382076,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+529,Andrew Hall,Male,22,3.697613200058712,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+530,Emma Clark,Female,23,3.455332628902069,Computer Science,Mobile App Development,Ios App Development,Mobile App Developer,Average,Strong,Basic
+531,Hydra,Male,20,3.7622302812050856,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+532,Agent Daisy Johnson,Female,30,3.545988336176114,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Strong,Average,Strong
+533,Sophia Johnson,Female,21,3.652460640980913,Computer Science,Database Management,Sql Database Administration,Database Administrator,Basic,Strong,Average
+534,Michelle Williams,Female,21,3.3297892511354954,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+535,William Smith,Male,23,3.368145806292665,Computer Science,Mobile App Development,Android App Development,Mobile App Developer,Average,Basic,Strong
+536,Charlotte Davis,Female,23,3.812033861797815,Computer Science,Database Management,Sql Database Design,Database Administrator,Basic,Strong,Average
+537,Doctor Octopus,Male,23,3.6646927484293097,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Strong,Strong,Average
+538,Charles Miller,Male,23,3.4830581025569063,Computer Science,Computer Graphics,Game Development,Game Developer,Basic,Average,Strong
+539,James Wilson,Male,23,3.292361015871776,Computer Science,Cloud Computing,Cloud Infrastructure Management,Cloud Solutions Architect,Strong,Basic,Basic
+540,Michelle Williams,Female,20,3.26514138471494,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+541,Sophia Wilson,Female,20,3.603459782357752,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+542,Elijah Smith,Male,21,3.427658732458195,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+543,Gwen Stacy,Female,22,3.830029629227839,Computer Science,Computer Graphics,3D Animation,Graphics Programmer,Basic,Average,Strong
+544,James Wilson,Male,19,3.1310699047034616,Computer Science,Mobile App Development,Android App,Mobile App Developer,Average,Basic,Strong
+545,Charles Miller,Male,24,3.3826117960558686,Computer Science,Computer Graphics,Game Development,Game Developer,Basic,Average,Strong
+546,Olivia Clark,Female,22,3.593776518225995,Computer Science,Biomedical Computing,Healthcare Data Analyst,Bioinformatician,Basic,Average,Strong
+547,Susan Davis,Female,23,3.7335406949218055,Computer Science,Software Engineering,E-Commerce Website,Software Engineer,Strong,Strong,Average
+548,Agent Coulson,Male,30,3.877326690342268,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Strong,Strong,Average
+549,Emma Wilson,Female,21,3.641934533879279,Computer Science,Software Development,Mobile App Development,Software Engineer,Strong,Strong,Average
+550,Charles Miller,Male,24,3.442231716997628,Computer Science,Computer Graphics,Game Development,Game Developer,Basic,Average,Strong
+551,Grace Smith,Female,21,3.6959892417318025,Computer Science,Artificial Intelligence,Neural Network Development,Ai Researcher,Strong,Average,Basic
+552,Sophia Johnson,Female,23,3.442411131223684,Computer Science,Software Development,Embedded Systems,Embedded Software Engineer,Basic,Strong,Average
+553,James Wilson,Male,19,3.597055057492424,Computer Science,Cloud Computing,Cloud Infrastructure Management,Cloud Solutions Architect,Strong,Basic,Basic
+554,Michael Johnson,Male,23,3.5063087130527,Computer Science,Data Science,Big Data Analytics,Data Analyst,Average,Strong,Basic
+555,Agent Bobbi Morse,Female,30,3.6971787078859553,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+556,Olivia Brown,Female,22,3.626179055027525,Computer Science,Data Science,Data Mining,Data Analyst,Average,Basic,Strong
+557,Olivia Clark,Female,22,3.3998956025388534,Computer Science,Mobile App Development,Ios App Development,Mobile App Developer,Basic,Strong,Average
+558,James Miller,Male,23,3.403453377556003,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Strong,Basic
+559,Joseph Miller,Male,21,3.471517732428948,Computer Science,Data Science,Big Data Analytics,Data Analyst,Average,Strong,Basic
+560,Alice Johnson,Female,19,3.3036361395924385,Computer Science,Data Science,Data Analytics,Data Scientist,Average,Strong,Basic
+561,James Wilson,Male,23,3.2286995406002763,Computer Science,Human-Computer Interaction,Usability Testing,Ux Designer,Strong,Average,Basic
+562,Laura Lee,Female,21,3.987277525188997,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Basic
+563,Sophia Johnson,Female,21,3.493501024229246,Computer Science,Database Management,Sql Database Administration,Database Administrator,Basic,Strong,Average
+564,Mary Jane Watson,Female,22,3.669300531872699,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+565,Hydro-Man,Male,20,3.658280974498709,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Average,Basic,Strong
+566,John Smith,Male,22,3.516676330500581,Computer Science,Web Development,Front-End Development,Web Developer,Basic,Strong,Average
+567,Gwen Stacy,Female,23,3.889813956634636,Computer Science,Computer Graphics,3D Animation,Graphics Programmer,Basic,Average,Strong
+568,James Wilson,Male,23,3.473846879760764,Computer Science,Mobile App Development,Android App,Mobile App Developer,Average,Basic,Strong
+569,Morbius,Male,21,3.623602458939193,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+570,James Wilson,Male,20,3.556419593360437,Computer Science,Cloud Computing,Cloud Infrastructure Management,Cloud Solutions Architect,Strong,Basic,Basic
+571,Emma Johnson,Female,23,3.551331104502137,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Basic,Strong,Average
+572,Alice Johnson,Female,19,3.773519177213994,Computer Science,Machine Learning,Computer Vision,Machine Learning Engineer,Strong,Average,Basic
+573,Michelle Williams,Female,20,3.055130367694803,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+574,Sophia Johnson,Female,23,3.5014688948692827,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+575,Agent Lance Hunter,Male,30,3.659534880901147,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+576,Fred Myers,Male,21,3.659018046381362,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+577,Laura Lee,Female,22,3.8500417350333302,Computer Science,Natural Language Processing,Chatbot Development,Nlp Engineer,Strong,Average,Basic
+578,Taskmaster,Male,24,3.947263281188999,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+579,Oliver Brown,Male,22,3.554058345497376,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+580,Peter Parker,Male,20,3.2118590556520297,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+581,Fred Myers,Male,22,3.59532228070396,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+582,Hydro-Man,Male,21,3.715250522163159,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Average,Basic,Strong
+583,John Brown,Male,19,3.594710384287916,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+584,William Johnson,Male,20,3.6653755213049792,Computer Science,Data Mining,Market Analysis,Data Analyst,Strong,Average,Basic
+585,Charles Miller,Male,24,3.635642342649177,Computer Science,Information Retrieval,Search Engine Optimization,Seo Specialist,Basic,Average,Strong
+586,William Smith,Male,24,3.113953101133533,Computer Science,Mobile App Development,Android App Development,Mobile App Developer,Average,Basic,Strong
+587,Emily Lee,Female,19,3.674683012681123,Computer Science,Data Science,Statistical Analysis,Data Analyst,Strong,Average,Basic
+588,Liam Wilson,Male,23,3.702090126760395,Computer Science,Machine Learning,Natural Language Processing,Machine Learning Engineer,Strong,Average,Basic
+589,Isabella Brown,Female,20,3.588002289821614,Computer Science,Software Development,Web Application Development,Software Engineer,Strong,Basic,Strong
+590,Elijah Davis,Male,22,3.655041089116276,Computer Science,Web Development,Full-Stack Web App,Web Developer,Basic,Strong,Strong
+591,Michael Brown,Male,24,3.471601530400829,Computer Science,Cloud Computing,Cloud Solution Architecture,Cloud Solutions Architect,Strong,Strong,Basic
+592,Sophia Johnson,Female,23,3.6572389253334414,Computer Science,Database Management,Sql Database Administration,Database Administrator,Basic,Strong,Average
+593,Charlotte Davis,Female,22,3.779694317450401,Computer Science,Artificial Intelligence,Neural Network Development,Ai Researcher,Strong,Average,Basic
+594,Michael Brown,Male,23,3.5316158507005677,Computer Science,Cloud Computing,Cloud Solution Architecture,Cloud Solutions Architect,Strong,Strong,Basic
+595,Emily Lee,Female,19,3.759248839204208,Computer Science,Mobile App Development,Cross-Platform App Development,Mobile App Developer,Basic,Strong,Average
+596,Sarah Miller,Female,22,3.5795963749012136,Computer Science,Cloud Computing,Cloud Migration Specialist,Cloud Solutions Architect,Basic,Strong,Average
+597,James Wilson,Male,23,3.2423492276829187,Computer Science,Mobile App Development,Android App,Mobile App Developer,Average,Basic,Strong
+598,David Jones,Male,22,3.795925814052438,Computer Science,Computer Graphics,Virtual Reality Development,Vr Developer,Basic,Strong,Average
+599,John Smith,Male,21,3.480661792108488,Computer Science,Artificial Intelligence,Chatbot Development,Machine Learning Researcher,Strong,Strong,Basic
+600,Elijah Davis,Male,23,3.5755770692309827,Computer Science,Web Development,Full-Stack Web App,Web Developer,Basic,Strong,Strong
+601,Taskmaster,Male,23,3.88986595378372,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+602,Green Goblin,Male,22,3.497855095725589,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+603,Emma Johnson,Female,19,3.5173160372405983,Computer Science,Cybersecurity,Security Auditing,Information Security Analyst,Strong,Average,Basic
+604,Matthew Lee,Male,21,3.7068417725209377,Computer Science,Artificial Intelligence,Computer Vision,Ai Researcher,Strong,Average,Basic
+605,Sarah Miller,Female,21,3.692228247690598,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Basic,Strong,Average
+606,Emma Johnson,Female,19,3.68413360081184,Computer Science,Cybersecurity,Security Auditing,Information Security Analyst,Strong,Average,Basic
+607,Liam Wilson,Male,22,3.5167177306966764,Computer Science,Machine Learning,Natural Language Processing,Machine Learning Engineer,Strong,Average,Basic
+608,Alice Johnson,Female,20,3.777024160678885,Computer Science,Machine Learning,Computer Vision,Machine Learning Engineer,Strong,Average,Basic
+609,Matthew Lee,Male,21,3.814073806271277,Computer Science,Artificial Intelligence,Computer Vision,Ai Researcher,Strong,Average,Basic
+610,James Wilson,Male,24,3.350966917488124,Computer Science,Cloud Computing,Cloud Infrastructure Management,Cloud Solutions Architect,Strong,Basic,Basic
+611,Oliver Davis,Male,22,3.7100788798927584,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+612,Rhino,Male,20,3.519097939682278,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Average,Basic,Strong
+613,Lizard,Male,22,3.660727500990076,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+614,Mary Jane Watson,Female,20,3.714313313130336,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+615,Sarah Miller,Female,22,3.818226828521699,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Basic,Strong,Average
+616,Agent Simmons,Female,30,3.4474016248371298,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+617,Sarah Miller,Female,20,3.599070044253714,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Basic,Strong,Average
+618,Lizard,Male,20,3.1167254329369665,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+619,Andrew Hall,Male,21,3.8207379490015567,Computer Science,Quantum Computing,Quantum Algorithm Development,Quantum Computing Researcher,Strong,Average,Basic
+620,Charles Miller,Male,24,3.4029242799885013,Computer Science,Computer Graphics,Game Development,Game Developer,Basic,Average,Strong
+621,Alice Johnson,Female,20,3.302071554930201,Computer Science,Computer Vision,Object Detection,Computer Vision Engineer,Strong,Average,Basic
+622,Peter Parker,Male,20,3.2776373588183536,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+623,James Wilson,Male,23,3.239138859331376,Computer Science,Cloud Computing,Cloud Infrastructure Management,Cloud Solutions Architect,Strong,Basic,Basic
+624,Liz Allan,Female,20,3.466248607424447,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+625,Lizard,Male,20,3.698573700941609,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+626,Agent Melinda May,Female,30,3.796920614678668,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+627,Elizabeth Williams,Female,20,3.382525892972803,Computer Science,Blockchain Technology,Smart Contracts Developer,Blockchain Engineer,Basic,Average,Strong
+628,Venom,Male,20,3.1082854736134387,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+629,David Jones,Male,22,3.687397624170314,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+630,Green Goblin,Male,20,3.657794550655699,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+631,Susan Davis,Female,21,3.7388477387088255,Computer Science,Software Engineering,E-Commerce Website,Software Engineer,Strong,Strong,Average
+632,Laura Lee,Female,22,4.0,Computer Science,Natural Language Processing,Chatbot Development,Nlp Engineer,Strong,Average,Basic
+633,John Brown,Male,20,3.6086428119751486,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+634,David Jones,Male,21,3.837842602508813,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+635,Sandman,Male,23,3.552682750271269,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+636,Isabella Brown,Female,21,3.509528071629004,Computer Science,Software Development,Web Application Development,Software Engineer,Strong,Basic,Strong
+637,Liam Wilson,Male,20,3.3721103849568865,Computer Science,Machine Learning,Natural Language Processing,Machine Learning Engineer,Strong,Average,Basic
+638,William Johnson,Male,22,3.6050130234794686,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Strong,Basic
+639,William Davis,Male,23,3.413266371031436,Computer Science,Artificial Intelligence,Robotics,Robotics Engineer,Strong,Strong,Basic
+640,Alice Johnson,Female,21,3.694509751078861,Computer Science,Machine Learning,Computer Vision,Machine Learning Engineer,Strong,Average,Basic
+641,Charles Miller,Male,23,3.589514343043592,Computer Science,Computer Graphics,Game Development,Game Developer,Basic,Average,Strong
+642,Matthew Hall,Male,23,3.882876353687238,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Basic,Basic
+643,Elijah Davis,Male,22,3.534467960999492,Computer Science,Web Development,Full-Stack Web App,Web Developer,Basic,Strong,Strong
+644,Isabella Brown,Female,21,3.683828774711318,Computer Science,Software Development,Web Application Development,Software Engineer,Strong,Basic,Strong
+645,Agent Hill,Female,30,3.9754643061260015,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+646,Carnage,Male,21,3.693356258184585,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+647,Susan Davis,Female,21,3.6292186974248897,Computer Science,Software Engineering,E-Commerce Website,Software Engineer,Strong,Strong,Average
+648,David Jones,Male,21,3.6410358453128127,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+649,Susan Davis,Female,22,3.819050462719421,Computer Science,Software Engineering,E-Commerce Website,Software Engineer,Strong,Strong,Average
+650,Sarah Miller,Female,21,3.5649636786201806,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Basic,Strong,Average
+651,John Brown,Male,21,3.685864004729444,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+652,William Davis,Male,22,3.525748576606461,Computer Science,Artificial Intelligence,Reinforcement Learning,Ai Researcher,Strong,Basic,Average
+653,Silver Sable,Female,21,3.6640450602811834,Computer Science,Computer Graphics,3D Modeling,Graphics Programmer,Basic,Average,Strong
+654,Charlotte Davis,Female,23,3.8076317019415433,Computer Science,Artificial Intelligence,Reinforcement Learning,Nlp Research Scientist,Strong,Average,Basic
+655,Agent Melinda May,Female,30,3.8819370932314072,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+656,John Smith,Male,20,3.672269512977998,Computer Science,Web Development,Front-End Development,Web Developer,Basic,Strong,Average
+657,William Davis,Male,21,3.80023128402641,Computer Science,Artificial Intelligence,Reinforcement Learning,Ai Researcher,Strong,Basic,Average
+658,Jason Macendale,Male,23,3.753010769157483,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Strong,Strong,Average
+659,Olivia Davis,Female,21,3.583700490635158,Computer Science,Web Development,Full-Stack Web App,Web Developer,Basic,Strong,Strong
+660,John Brown,Male,21,3.571808992261976,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+661,Alice Johnson,Female,20,3.288493846907916,Computer Science,Data Science,Data Analytics,Data Scientist,Average,Strong,Basic
+662,Sarah Miller,Female,21,3.633093937058835,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Basic,Strong,Average
+663,Andrew Hall,Male,24,3.7385616868560807,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+664,Charles Miller,Male,22,3.610670523993439,Computer Science,Information Retrieval,Search Engine Optimization,Seo Specialist,Basic,Average,Strong
+665,Michael Brown,Male,22,3.659127793661487,Computer Science,Cloud Computing,Cloud Solution Architecture,Cloud Solutions Architect,Strong,Strong,Basic
+666,Ava Miller,Female,22,3.9942054508231344,Computer Science,Cybersecurity,Security Auditing,Information Security Analyst,Strong,Average,Basic
+667,James Wilson,Male,19,3.69848676929733,Computer Science,Cloud Computing,Cloud Infrastructure Management,Cloud Solutions Architect,Strong,Basic,Basic
+668,Michael Brown,Male,21,3.841536428375548,Computer Science,Web Development,Front-End Development,Web Developer,Strong,Average,Basic
+669,Laura Lee,Female,23,3.905979062402343,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Basic
+670,William Davis,Male,24,3.310291283102191,Computer Science,Artificial Intelligence,Reinforcement Learning,Ai Researcher,Strong,Basic,Average
+671,William Johnson,Male,23,3.708444366785096,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Strong,Basic
+672,Michael Brown,Male,22,3.4211064795526007,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+673,Charles Miller,Male,24,3.2604518662973905,Computer Science,Computer Graphics,Game Development,Game Developer,Basic,Average,Strong
+674,Robert Davis,Male,22,3.877674408360418,Computer Science,Software Engineering,Devops,Devops Engineer,Strong,Average,Basic
+675,Sarah Miller,Female,22,3.670392943908065,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Basic,Strong,Average
+676,Charlotte Davis,Female,21,3.752520539133711,Computer Science,Artificial Intelligence,Reinforcement Learning,Ai Researcher,Strong,Average,Basic
+677,William Smith,Male,24,3.31478860012994,Computer Science,Mobile App Development,Android App Development,Mobile App Developer,Average,Basic,Strong
+678,David Jones,Male,22,3.681333380521632,Computer Science,Computer Graphics,Virtual Reality Development,Vr Developer,Basic,Strong,Average
+679,Charlotte Davis,Female,23,3.5911757377629274,Computer Science,Database Management,Sql Database Design,Database Administrator,Basic,Strong,Average
+680,William Brown,Male,24,3.467218392762309,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+681,James Wilson,Male,24,3.321853473284701,Computer Science,Cloud Computing,Cloud Infrastructure Management,Cloud Solutions Architect,Strong,Basic,Basic
+682,Carnage,Male,23,3.663117867882242,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+683,Michael Johnson,Male,22,3.4106962923656914,Computer Science,Data Science,Big Data Analytics,Data Analyst,Average,Strong,Basic
+684,Olivia Brown,Female,22,3.42555317866406,Computer Science,Game Development,Mobile Game Development,Game Developer,Basic,Strong,Average
+685,John Smith,Male,20,3.472385006785475,Computer Science,Artificial Intelligence,Chatbot Development,Machine Learning Researcher,Strong,Strong,Basic
+686,Charles Miller,Male,24,3.51433594930864,Computer Science,Information Retrieval,Search Engine Optimization,Seo Specialist,Basic,Average,Strong
+687,Susan Davis,Female,22,3.885198048634559,Computer Science,Software Engineering,E-Commerce Website,Software Engineer,Strong,Strong,Average
+688,Andrew Hall,Male,24,3.940532293297244,Computer Science,Quantum Computing,Quantum Algorithm Development,Quantum Computing Researcher,Basic,Average,Strong
+689,Charles Miller,Male,23,3.4522541235353885,Computer Science,Computer Graphics,Game Development,Game Developer,Basic,Average,Strong
+690,Olivia Clark,Female,21,3.4654668605822283,Computer Science,Computer Graphics,3D Rendering,Graphics Programmer,Basic,Average,Strong
+691,John Brown,Male,20,3.535511555933278,Computer Science,Geographic Information Systems,Gis Mapping,Geospatial Analyst,Basic,Average,Strong
+692,Oliver Davis,Male,23,3.567817950796029,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+693,Olivia Davis,Female,20,3.9267578865850754,Computer Science,Software Development,Mobile App Development,Software Engineer,Strong,Strong,Average
+694,William Johnson,Male,23,3.551200101532404,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Strong,Basic
+695,James Wilson,Male,19,3.653839734512105,Computer Science,Cloud Computing,Cloud Infrastructure Management,Cloud Solutions Architect,Strong,Basic,Basic
+696,William Johnson,Male,23,3.7536326662095103,Computer Science,Digital Forensics,Computer Forensic Analyst,Digital Forensics Specialist,Basic,Average,Strong
+697,Agent Fitz,Male,30,3.984956899359693,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+698,William Davis,Male,22,3.230796118597021,Computer Science,Artificial Intelligence,Reinforcement Learning,Ai Researcher,Strong,Basic,Average
+699,Eddie Brock,Male,22,3.411886643403168,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+700,David Lee,Male,21,3.90032818359812,Computer Science,Machine Learning,Image Classification,Machine Learning Engineer,Strong,Basic,Basic
+701,Emily Lee,Female,21,3.613673896902175,Computer Science,Data Science,Statistical Analysis,Data Analyst,Strong,Average,Basic
+702,Doctor Octopus,Male,22,3.9172745406974574,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Strong,Strong,Average
+703,John Brown,Male,20,3.5537760837489425,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+704,Hydro-Man,Male,21,3.7140731499119313,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Average,Basic,Strong
+705,Emma Wilson,Female,20,3.811636509210629,Computer Science,Software Development,Mobile App Development,Software Engineer,Strong,Strong,Average
+706,John Smith,Male,22,3.555157887838989,Computer Science,Cybersecurity,Penetration Testing,Information Security Analyst,Strong,Strong,Average
+707,Charlotte Davis,Female,23,3.768308535312697,Computer Science,Database Management,Sql Database Design,Database Administrator,Basic,Strong,Average
+708,David Lee,Male,20,3.8400317633740215,Computer Science,Machine Learning,Image Classification,Machine Learning Engineer,Strong,Basic,Basic
+709,Charlotte Davis,Female,23,3.689289889030946,Computer Science,Artificial Intelligence,Reinforcement Learning,Ai Researcher,Strong,Average,Basic
+710,Laura Lee,Female,23,3.945779462930543,Computer Science,Natural Language Processing,Chatbot Development,Nlp Engineer,Strong,Average,Basic
+711,James Wilson,Male,22,3.219097864125838,Computer Science,Mobile App Development,Android App,Mobile App Developer,Average,Basic,Strong
+712,Andrew Hall,Male,24,3.967216910574888,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+713,Agent Hill,Female,30,3.8487954393681294,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+714,John Smith,Male,22,3.5901493438632666,Computer Science,Artificial Intelligence,Chatbot Development,Machine Learning Researcher,Strong,Strong,Basic
+715,Agent Daisy Johnson,Female,29,3.759806217806725,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Strong,Average,Strong
+716,Michael Brown,Male,22,3.724675156664465,Computer Science,Cloud Computing,Cloud Solution Architecture,Cloud Solutions Architect,Strong,Strong,Basic
+717,Olivia Brown,Female,21,3.3507165135703336,Computer Science,Data Science,Data Mining,Data Analyst,Average,Basic,Strong
+718,Ava Miller,Female,22,3.549787687817058,Computer Science,Machine Learning,Deep Learning Models,Machine Learning Engineer,Strong,Average,Basic
+719,Shocker,Male,20,3.2850034284732863,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+720,Modok,Male,21,3.340142644013431,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+721,John Smith,Male,22,3.3532117624525744,Computer Science,Artificial Intelligence,Chatbot Development,Machine Learning Researcher,Strong,Strong,Basic
+722,William Davis,Male,22,3.3152078943235304,Computer Science,Artificial Intelligence,Reinforcement Learning,Ai Researcher,Strong,Basic,Average
+723,Matthew Hall,Male,23,3.795052884595676,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Basic,Basic
+724,Alice Johnson,Female,21,3.249264029157493,Computer Science,Computer Vision,Object Detection,Computer Vision Engineer,Strong,Average,Basic
+725,David Brown,Male,21,3.841999831060764,Computer Science,Software Engineering,Enterprise Software Development,Software Engineer,Strong,Strong,Average
+726,James Wilson,Male,22,3.305226549064278,Computer Science,Cloud Computing,Cloud Infrastructure Management,Cloud Solutions Architect,Strong,Basic,Basic
+727,Olivia Davis,Female,22,3.77977838870712,Computer Science,Software Development,Mobile App Development,Software Engineer,Strong,Strong,Average
+728,Emma Wilson,Female,20,3.804281210252356,Computer Science,Software Development,Mobile App Development,Software Engineer,Strong,Strong,Average
+729,Oliver Brown,Male,24,3.706516319462514,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+730,Emily Lee,Female,20,3.594533892470595,Computer Science,Mobile App Development,Cross-Platform App Development,Mobile App Developer,Basic,Strong,Average
+731,Michael Brown,Male,22,3.3280583425606243,Computer Science,Iot (Internet Of Things),Smart Home Automation,Database Administrator,Basic,Strong,Average
+732,David Jones,Male,21,3.784761852201141,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+733,Laura Lee,Female,22,4.0,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Basic
+734,John Brown,Male,21,3.5621302423048977,Computer Science,Geographic Information Systems,Gis Mapping,Geospatial Analyst,Basic,Average,Strong
+735,Sophia Johnson,Female,23,3.524693431587256,Computer Science,Database Management,Sql Database Administration,Database Administrator,Basic,Strong,Average
+736,Liam Wilson,Male,20,3.5744337590259296,Computer Science,Machine Learning,Natural Language Processing,Machine Learning Engineer,Strong,Average,Basic
+737,Michael Brown,Male,20,3.8903376616845367,Computer Science,Cloud Computing,Cloud Solution Architecture,Cloud Solutions Architect,Strong,Strong,Basic
+738,William Davis,Male,22,3.392378635778309,Computer Science,Artificial Intelligence,Robotics,Robotics Engineer,Strong,Strong,Basic
+739,Betty Brant,Female,20,3.782268658096216,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+740,Michael Brown,Male,22,3.7804233306671,Computer Science,Cloud Computing,Cloud Solution Architecture,Cloud Solutions Architect,Strong,Strong,Basic
+741,Michael Brown,Male,21,3.7666990409780152,Computer Science,Cloud Computing,Cloud Solution Architecture,Cloud Solutions Architect,Strong,Strong,Basic
+742,Alice Johnson,Female,20,3.2075057186800766,Computer Science,Data Science,Data Analytics,Data Scientist,Average,Strong,Basic
+743,Sarah Miller,Female,21,3.8018996936744665,Computer Science,Bioinformatics,Protein Structure Prediction,Bioinformatician,Basic,Average,Strong
+744,Sandman,Male,21,3.6084145915307655,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+745,Agent Daisy Johnson,Female,29,3.659994479642205,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Strong,Average,Strong
+746,Sophia Johnson,Female,23,3.5464618782047967,Computer Science,Database Management,Sql Database Administration,Database Administrator,Basic,Strong,Average
+747,Lizard,Male,21,3.4368727675541173,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+748,Silver Sable,Female,23,3.775679581814084,Computer Science,Computer Graphics,3D Modeling,Graphics Programmer,Basic,Average,Strong
+749,William Johnson,Male,24,3.728727873264632,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Strong,Basic
+750,Harry Osborn,Male,22,3.3639629107753914,Computer Science,Mobile App Development,Ios Game,Mobile App Developer,Average,Basic,Strong
+751,William Smith,Male,21,3.608898895930936,Computer Science,Machine Learning,Image Classification,Machine Learning Engineer,Strong,Average,Basic
+752,Liam Wilson,Male,24,3.881033878399816,Computer Science,Machine Learning,Natural Language Processing,Machine Learning Engineer,Strong,Average,Basic
+753,James Wilson,Male,21,3.150357241545731,Computer Science,Mobile App Development,Android App,Mobile App Developer,Average,Basic,Strong
+754,James Wilson,Male,19,3.350861160466418,Computer Science,Mobile App Development,Android App,Mobile App Developer,Average,Basic,Strong
+755,Olivia Davis,Female,21,3.805620293042151,Computer Science,Web Development,Full-Stack Web App,Web Developer,Basic,Strong,Strong
+756,Black Cat,Female,22,3.474420023846454,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+757,David Jones,Male,23,3.739650353577801,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+758,Olivia Clark,Female,21,3.5977212067915936,Computer Science,Biomedical Computing,Healthcare Data Analyst,Bioinformatician,Basic,Average,Strong
+759,Emily Johnson,Female,19,3.478413952108158,Computer Science,Computer Graphics,3D Modeling,Graphics Programmer,Basic,Average,Strong
+760,Michael Brown,Male,22,3.256750414387033,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+761,Jessica Jones,Female,22,3.868063430683839,Computer Science,Cloud Computing,Gcp Deployment,Cloud Solutions Architect,Strong,Strong,Average
+762,Sophia Johnson,Female,23,3.5924432708619056,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+763,Peter Parker,Male,20,3.1561958940809007,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+764,Laura Lee,Female,22,3.8925438833964954,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Basic
+765,Sarah Miller,Female,20,3.6818453359253382,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Basic,Strong,Average
+766,Elizabeth Williams,Female,21,3.2298044315014742,Computer Science,Mobile App Development,Ios App,Mobile App Developer,Average,Basic,Strong
+767,Liz Allan,Female,21,3.530148834798601,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+768,James Miller,Male,23,3.1784780461195505,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Strong,Basic
+769,Oliver Davis,Male,21,3.757416974369325,Computer Science,Network Security,Firewall Management,Security Analyst,Strong,Average,Basic
+770,Charles Miller,Male,23,3.628996369803001,Computer Science,Information Retrieval,Search Engine Optimization,Seo Specialist,Basic,Average,Strong
+771,Charlotte Davis,Female,22,3.745442630374383,Computer Science,Artificial Intelligence,Neural Network Development,Ai Researcher,Strong,Average,Basic
+772,Jason Macendale,Male,22,3.780991160899991,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Strong,Strong,Average
+773,Michael Brown,Male,22,3.882682559140425,Computer Science,Cloud Computing,Cloud Solution Architecture,Cloud Solutions Architect,Strong,Strong,Basic
+774,Charles Miller,Male,24,3.4665045807266126,Computer Science,Computer Graphics,Game Development,Game Developer,Basic,Average,Strong
+775,Sophia Johnson,Female,21,3.530676374001749,Computer Science,Database Management,Sql Database Administration,Database Administrator,Basic,Strong,Average
+776,Sarah Miller,Female,22,3.6379762742888047,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Basic,Strong,Average
+777,William Johnson,Male,22,3.748356384013604,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Strong,Basic
+778,Charles Miller,Male,24,3.569974309586634,Computer Science,Computer Graphics,Game Development,Game Developer,Basic,Average,Strong
+779,Charles Miller,Male,24,3.5790013814134864,Computer Science,Information Retrieval,Search Engine Optimization,Seo Specialist,Basic,Average,Strong
+780,Hydra,Male,20,3.446493193093174,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+781,Kingpin,Male,22,3.694408931485176,Computer Science,Computer Graphics,3D Animation,Graphics Programmer,Basic,Average,Strong
+782,William Johnson,Male,23,3.71101965644547,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Strong,Basic
+783,James Wilson,Male,22,3.401507330061523,Computer Science,Human-Computer Interaction,Usability Testing,Ux Designer,Strong,Average,Basic
+784,Matthew Lee,Male,22,3.7645466809064154,Computer Science,Artificial Intelligence,Computer Vision,Ai Researcher,Strong,Average,Basic
+785,Silver Sable,Female,23,3.780799019409128,Computer Science,Computer Graphics,3D Modeling,Graphics Programmer,Basic,Average,Strong
+786,Scorpion,Male,22,3.4515397465873145,Computer Science,Computer Graphics,3D Animation,Graphics Programmer,Basic,Average,Strong
+787,Oliver Brown,Male,24,3.7287019505797576,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+788,James Wilson,Male,21,3.368115261319899,Computer Science,Mobile App Development,Android App,Mobile App Developer,Average,Basic,Strong
+789,Olivia Brown,Female,21,3.422283607082017,Computer Science,Data Science,Data Mining,Data Analyst,Average,Basic,Strong
+790,Olivia Clark,Female,21,3.704109039822062,Computer Science,Mobile App Development,Ios App Development,Database Administrator,Basic,Strong,Average
+791,Gwen Stacy,Female,21,3.8356156286150793,Computer Science,Computer Graphics,3D Animation,Graphics Programmer,Basic,Average,Strong
+792,Kraven The Hunter,Male,23,3.622606260641609,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+793,Mary Jane Watson,Female,22,3.729082779969396,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+794,Sophia Johnson,Female,21,3.3814364371836976,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+795,Matthew Hall,Male,24,3.7598024991419257,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Basic,Basic
+796,Susan Davis,Female,22,3.7326842104133457,Computer Science,Software Engineering,E-Commerce Website,Software Engineer,Strong,Strong,Average
+797,Charles Miller,Male,23,3.530151815523749,Computer Science,Information Retrieval,Search Engine Optimization,Seo Specialist,Basic,Average,Strong
+798,Andrew Hall,Male,20,3.940029822479481,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+799,James Miller,Male,23,3.245999955102389,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Strong,Basic
+800,Emily Wilson,Female,23,3.4203979186660605,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+801,Oliver Brown,Male,22,3.72811109259404,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+802,Charlotte Davis,Female,21,3.916596306191343,Computer Science,Artificial Intelligence,Reinforcement Learning,Ai Researcher,Strong,Average,Basic
+803,Robert Davis,Male,21,3.752425781342269,Computer Science,Software Engineering,Devops,Devops Engineer,Strong,Average,Basic
+804,Susan Davis,Female,23,3.81521666215349,Computer Science,Software Engineering,E-Commerce Website,Software Engineer,Strong,Strong,Average
+805,James Wilson,Male,19,3.280512378312603,Computer Science,Mobile App Development,Android App,Mobile App Developer,Average,Basic,Strong
+806,Aim,Male,22,3.6547280782835374,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+807,Alice Johnson,Female,20,3.5266118980602768,Computer Science,Machine Learning,Computer Vision,Machine Learning Engineer,Strong,Average,Basic
+808,Michael Brown,Male,24,3.3264916551959764,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+809,John Brown,Male,21,3.5529564637598794,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+810,Hydro-Man,Male,20,3.7355982435131336,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Average,Basic,Strong
+811,Liam Wilson,Male,23,3.7196140634780495,Computer Science,Database Management,Data Warehouse Design,Database Administrator,Average,Strong,Basic
+812,Alice Johnson,Female,19,3.737223538626805,Computer Science,Machine Learning,Computer Vision,Machine Learning Engineer,Strong,Average,Basic
+813,Peter Parker,Male,21,3.317775018236409,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+814,Green Goblin,Male,22,3.4770287571193323,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+815,Grace Smith,Female,21,3.480053557321611,Computer Science,Artificial Intelligence,Neural Network Development,Ai Researcher,Strong,Average,Basic
+816,Michelle Williams,Female,20,3.2456533659109144,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+817,Matthew Hall,Male,21,3.8519708256920886,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Basic,Basic
+818,John Smith,Male,22,3.65947024479372,Computer Science,Cybersecurity,Penetration Testing,Information Security Analyst,Strong,Strong,Average
+819,Robert Davis,Male,21,3.697709934761588,Computer Science,Software Development,E-Commerce Website,Software Engineer,Strong,Strong,Average
+820,William Smith,Male,22,3.941026964165103,Computer Science,Machine Learning,Image Classification,Machine Learning Engineer,Strong,Average,Basic
+821,David Jones,Male,22,3.765282452797704,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+822,Taskmaster,Male,23,3.749364400303925,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+823,Alice Johnson,Female,21,3.177250378842295,Computer Science,Computer Vision,Object Detection,Computer Vision Engineer,Strong,Average,Basic
+824,Oliver Brown,Male,24,3.743493756411821,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+825,William Davis,Male,22,3.461919958028084,Computer Science,Artificial Intelligence,Robotics,Robotics Engineer,Strong,Strong,Basic
+826,Andrew Hall,Male,22,3.773299581085616,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+827,Oliver Brown,Male,24,3.6852599179950496,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+828,David Jones,Male,21,3.6226234468002505,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+829,Susan Davis,Female,23,3.854282444269213,Computer Science,Software Engineering,E-Commerce Website,Software Engineer,Strong,Strong,Average
+830,Shocker,Male,21,3.218899308931201,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+831,William Johnson,Male,22,3.464253724681372,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Strong,Basic
+832,Matthew Lee,Male,22,3.687347415744167,Computer Science,Artificial Intelligence,Computer Vision,Ai Researcher,Strong,Average,Basic
+833,Sophia Johnson,Female,22,3.4475830656472994,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+834,Liam Wilson,Male,21,3.335565743371647,Computer Science,Machine Learning,Natural Language Processing,Machine Learning Engineer,Strong,Average,Basic
+835,Michael Brown,Male,22,3.8501239523900512,Computer Science,Cloud Computing,Cloud Solution Architecture,Cloud Solutions Architect,Strong,Strong,Basic
+836,John Brown,Male,21,3.679961166973656,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+837,Ava Miller,Female,21,3.913172216349011,Computer Science,Cybersecurity,Security Auditing,Information Security Analyst,Strong,Average,Basic
+838,Emily Lee,Female,20,3.563561083912289,Computer Science,Data Science,Statistical Analysis,Data Analyst,Strong,Average,Basic
+839,William Johnson,Male,22,3.496057890109464,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Strong,Basic
+840,Olivia Clark,Female,23,3.5422765663554627,Computer Science,Biomedical Computing,Medical Imaging Analysis,Healthcare It Specialist,Basic,Strong,Average
+841,William Davis,Male,24,3.4147129785483767,Computer Science,Artificial Intelligence,Reinforcement Learning,Ai Researcher,Strong,Basic,Average
+842,William Davis,Male,22,3.4482657203234397,Computer Science,Artificial Intelligence,Robotics,Robotics Engineer,Strong,Strong,Basic
+843,James Wilson,Male,23,3.250144877721327,Computer Science,Human-Computer Interaction,Usability Testing,Ux Designer,Strong,Average,Basic
+844,Harry Osborn,Male,23,3.5172889480491163,Computer Science,Mobile App Development,Ios Game,Mobile App Developer,Average,Basic,Strong
+845,Charlotte Davis,Female,21,3.628365333753372,Computer Science,Artificial Intelligence,Reinforcement Learning,Ai Researcher,Strong,Average,Basic
+846,Emily Wilson,Female,21,3.617358214102936,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+847,David Jones,Male,21,3.686701335949176,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+848,Elijah Smith,Male,21,3.3575353086579987,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+849,Matthew Lee,Male,20,3.787201799672384,Computer Science,Artificial Intelligence,Computer Vision,Ai Researcher,Strong,Average,Basic
+850,Elijah Davis,Male,21,3.833169938916619,Computer Science,Web Development,Full-Stack Web App,Web Developer,Basic,Strong,Strong
+851,Agent Daisy Johnson,Female,28,3.492157547242531,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Strong,Average,Strong
+852,Agent Melinda May,Female,30,3.69824834635242,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+853,Joseph Miller,Male,22,3.656866772211027,Computer Science,Data Science,Big Data Analytics,Data Analyst,Average,Strong,Basic
+854,Sarah Miller,Female,21,3.632602217538847,Computer Science,Cloud Computing,Cloud Migration Specialist,Cloud Solutions Architect,Basic,Strong,Average
+855,Liz Allan,Female,20,3.379375479657505,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+856,Oliver Davis,Male,22,3.7420803823177566,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+857,Laura Lee,Female,20,3.832170514278281,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Basic
+858,Susan Davis,Female,23,3.779207819192025,Computer Science,Software Engineering,E-Commerce Website,Software Engineer,Strong,Strong,Average
+859,Agent Fitz,Male,30,3.910324751216392,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+860,Emma Clark,Female,21,3.5596967736443035,Computer Science,Mobile App Development,Ios App Development,Mobile App Developer,Average,Strong,Basic
+861,David Jones,Male,21,3.787698611096313,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+862,Sarah Miller,Female,21,3.774442204423752,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Basic,Strong,Average
+863,Oliver Davis,Male,21,3.730857975813127,Computer Science,Network Security,Firewall Management,Security Analyst,Strong,Average,Basic
+864,Ava Miller,Female,20,3.927593152058291,Computer Science,Cybersecurity,Security Auditing,Information Security Analyst,Strong,Average,Basic
+865,Susan Davis,Female,21,3.9558190378010263,Computer Science,Software Engineering,E-Commerce Website,Software Engineer,Strong,Strong,Average
+866,David Jones,Male,22,3.6020275511083386,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+867,Grace Smith,Female,21,3.610652892716796,Computer Science,Artificial Intelligence,Neural Network Development,Ai Researcher,Strong,Average,Basic
+868,James Wilson,Male,24,3.270876594576723,Computer Science,Mobile App Development,Android App,Mobile App Developer,Average,Basic,Strong
+869,Emma Wilson,Female,20,3.729393362458503,Computer Science,Software Development,Mobile App Development,Software Engineer,Strong,Strong,Average
+870,Oliver Brown,Male,22,3.851868681450396,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+871,Isabella Brown,Female,20,3.568374222299414,Computer Science,Software Development,Web Application Development,Software Engineer,Strong,Basic,Strong
+872,Matthew Hall,Male,24,3.697932606556803,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Basic,Basic
+873,Andrew Hall,Male,20,3.8114684363599696,Computer Science,Quantum Computing,Quantum Algorithm Development,Quantum Computing Researcher,Strong,Average,Basic
+874,Agent Simmons,Female,30,3.624223519632801,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+875,Eddie Brock,Male,20,3.7193817157197087,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+876,Sophia Johnson,Female,23,3.5359211206385788,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+877,Sarah Miller,Female,22,3.662650187130221,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Basic,Strong,Average
+878,Elizabeth Williams,Female,21,3.3812833412380687,Computer Science,Mobile App Development,Ios App,Mobile App Developer,Average,Basic,Strong
+879,Mary Jane Watson,Female,22,3.7588168419885664,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+880,Kraven The Hunter,Male,22,3.7698927606860457,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+881,John Smith,Male,21,3.529037357821476,Computer Science,Artificial Intelligence,Chatbot Development,Machine Learning Researcher,Strong,Strong,Basic
+882,Susan Davis,Female,22,3.75491766573124,Computer Science,Software Engineering,E-Commerce Website,Software Engineer,Strong,Strong,Average
+883,William Johnson,Male,23,3.568582257515133,Computer Science,Digital Forensics,Computer Forensic Analyst,Digital Forensics Specialist,Basic,Average,Strong
+884,William Davis,Male,22,3.9981542342188487,Computer Science,Artificial Intelligence,Reinforcement Learning,Ai Researcher,Strong,Basic,Average
+885,James Miller,Male,24,3.3215171661629324,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Strong,Basic
+886,Oliver Brown,Male,24,3.771772831794229,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+887,Grace Smith,Female,19,3.4942682626690824,Computer Science,Artificial Intelligence,Neural Network Development,Ai Researcher,Strong,Average,Basic
+888,Sophia Johnson,Female,23,3.5095626473263133,Computer Science,Database Management,Sql Database Administration,Database Administrator,Basic,Strong,Average
+889,Andrew Hall,Male,22,3.754372475874443,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+890,Charlotte Davis,Female,22,3.6732653907275465,Computer Science,Artificial Intelligence,Reinforcement Learning,Ai Researcher,Strong,Average,Basic
+891,John Smith,Male,23,3.629085595103117,Computer Science,Cybersecurity,Penetration Testing,Information Security Analyst,Strong,Strong,Average
+892,Elijah Smith,Male,21,3.4150341048541177,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+893,Agent Lance Hunter,Male,30,3.574359437241593,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+894,William Johnson,Male,19,3.542218991252314,Computer Science,Data Mining,Market Analysis,Data Analyst,Strong,Average,Basic
+895,Harry Osborn,Male,22,3.284816673797352,Computer Science,Mobile App Development,Ios Game,Mobile App Developer,Average,Basic,Strong
+896,Gwen Stacy,Female,21,3.9181633405812266,Computer Science,Computer Graphics,3D Animation,Graphics Programmer,Basic,Average,Strong
+897,Kingpin,Male,23,3.5249623284449134,Computer Science,Computer Graphics,3D Animation,Graphics Programmer,Basic,Average,Strong
+898,Modok,Male,20,3.378297240046155,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+899,Laura Lee,Female,20,3.873784172809826,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Basic
+900,David Lee,Male,22,3.6102389106370416,Computer Science,Machine Learning,Image Classification,Machine Learning Engineer,Strong,Basic,Basic
+901,Grace Smith,Female,20,3.57865448607988,Computer Science,Artificial Intelligence,Neural Network Development,Ai Researcher,Strong,Average,Basic
+902,Charlotte Davis,Female,21,3.8065082517099342,Computer Science,Artificial Intelligence,Neural Network Development,Ai Researcher,Strong,Average,Basic
+903,Flash Thompson,Male,21,3.6716989361773456,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+904,Liz Allan,Female,22,3.5393122533136823,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+905,John Brown,Male,20,3.670925416224448,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+906,Laura Lee,Female,20,3.8694654449600288,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Basic
+907,Laura Lee,Female,22,3.994641583663066,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Basic
+908,Elijah Smith,Male,23,3.2811236006123234,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+909,Kraven The Hunter,Male,23,3.5362808867144104,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+910,Elizabeth Williams,Female,22,3.377476993366113,Computer Science,Mobile App Development,Ios App,Mobile App Developer,Average,Basic,Strong
+911,Emily Lee,Female,19,3.6013159014340173,Computer Science,Mobile App Development,Cross-Platform App Development,Mobile App Developer,Basic,Strong,Average
+912,William Smith,Male,22,3.854872598695574,Computer Science,Machine Learning,Image Classification,Machine Learning Engineer,Strong,Average,Basic
+913,James Wilson,Male,24,3.265229088544531,Computer Science,Cloud Computing,Cloud Infrastructure Management,Cloud Solutions Architect,Strong,Basic,Basic
+914,Elizabeth Williams,Female,20,3.34648551579808,Computer Science,Mobile App Development,Ios App,Mobile App Developer,Average,Basic,Strong
+915,William Johnson,Male,23,3.4777383987697763,Computer Science,Digital Forensics,Computer Forensic Analyst,Digital Forensics Specialist,Basic,Average,Strong
+916,Olivia Clark,Female,20,3.503869591635709,Computer Science,Biomedical Computing,Healthcare Data Analyst,Game Developer,Basic,Average,Strong
+917,Emily Lee,Female,19,3.7229088781314656,Computer Science,Data Science,Statistical Analysis,Data Analyst,Strong,Average,Basic
+918,Oliver Davis,Male,22,3.641576157759108,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+919,Laura Lee,Female,23,4.0,Computer Science,Natural Language Processing,Chatbot Development,Nlp Engineer,Strong,Average,Basic
+920,Laura Lee,Female,22,3.918872155192884,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Basic
+921,James Wilson,Male,23,3.477044696685425,Computer Science,Mobile App Development,Android App,Mobile App Developer,Average,Basic,Strong
+922,Laura Lee,Female,21,3.7310601759738176,Computer Science,Distributed Systems,Distributed Systems Architect,Geospatial Analyst,Basic,Average,Strong
+923,Ned Leeds,Male,20,3.2397149547953243,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Average,Basic,Strong
+924,Emily Wilson,Female,22,3.653367828277186,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+925,John Brown,Male,21,3.605058358741354,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+926,Agent Bobbi Morse,Female,28,3.68488864492576,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+927,Olivia Brown,Female,23,3.500652036439413,Computer Science,Data Science,Data Mining,Data Analyst,Average,Basic,Strong
+928,Andrew Hall,Male,23,3.957636307996726,Computer Science,Quantum Computing,Quantum Algorithm Development,Quantum Computing Researcher,Basic,Average,Strong
+929,Agent Hill,Female,30,3.761906199618676,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+930,Matthew Lee,Male,22,3.830927493446048,Computer Science,Artificial Intelligence,Computer Vision,Ai Researcher,Strong,Average,Basic
+931,Susan Davis,Female,22,3.757553375205369,Computer Science,Software Engineering,E-Commerce Website,Software Engineer,Strong,Strong,Average
+932,Charles Miller,Male,23,3.4661859478346155,Computer Science,Computer Graphics,Game Development,Game Developer,Basic,Average,Strong
+933,Betty Brant,Female,22,3.753702279586385,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+934,Agent Daisy Johnson,Female,28,3.5592290487921145,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Strong,Average,Strong
+935,Emily Lee,Female,20,3.883202784457127,Computer Science,Data Science,Statistical Analysis,Data Analyst,Strong,Average,Basic
+936,Olivia Clark,Female,20,3.532631984617573,Computer Science,Computer Graphics,3D Rendering,Graphics Programmer,Basic,Average,Strong
+937,William Johnson,Male,24,3.3864041288096107,Computer Science,Digital Forensics,Computer Forensic Analyst,Digital Forensics Specialist,Basic,Average,Strong
+938,James Miller,Male,22,3.292642510226295,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Strong,Basic
+939,Emma Johnson,Female,21,3.605588481067066,Computer Science,Cybersecurity,Security Auditing,Information Security Analyst,Strong,Average,Basic
+940,Vulture,Male,22,3.850801947655109,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+941,Olivia Clark,Female,22,3.419988052216043,Computer Science,Computer Graphics,3D Rendering,Graphics Programmer,Basic,Average,Strong
+942,Sarah Miller,Female,22,3.750685069721409,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Basic,Strong,Average
+943,David Jones,Male,22,3.69794168589403,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+944,Kraven The Hunter,Male,22,3.885077315788352,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+945,Electro,Male,23,3.695567710030159,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,Strong,Strong,Average
+946,Lizard,Male,22,3.479813442362797,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Basic,Strong
+947,Sophia Miller,Female,21,3.799754860017753,Computer Science,Database Management,Sql Database Design,Database Administrator,Basic,Strong,Average
+948,Black Cat,Female,21,3.785331695635228,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+949,Michael Brown,Male,23,3.8641211676287375,Computer Science,Cloud Computing,Cloud Solution Architecture,Cloud Solutions Architect,Strong,Strong,Basic
+950,Emily Lee,Female,20,3.840968880113104,Computer Science,Data Science,Statistical Analysis,Data Analyst,Strong,Average,Basic
+951,Charles Miller,Male,23,3.7344864369938975,Computer Science,Information Retrieval,Search Engine Optimization,Seo Specialist,Basic,Average,Strong
+952,Charles Miller,Male,23,3.38798074561584,Computer Science,Computer Graphics,Game Development,Game Developer,Basic,Average,Strong
+953,James Wilson,Male,19,3.4353634146121146,Computer Science,Mobile App Development,Android App,Mobile App Developer,Average,Basic,Strong
+954,Eddie Brock,Male,21,3.5262164505626856,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+955,Laura Lee,Female,22,3.679126833195642,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Basic
+956,Elizabeth Williams,Female,21,3.4985514530931834,Computer Science,Blockchain Technology,Smart Contracts Developer,Blockchain Engineer,Basic,Average,Strong
+957,Alice Johnson,Female,20,3.276846440248137,Computer Science,Data Science,Data Analytics,Data Scientist,Average,Strong,Basic
+958,Laura Lee,Female,20,3.9843257079903487,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Basic
+959,John Brown,Male,20,3.5520887272672503,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+960,Olivia Clark,Female,21,3.5517577550546844,Computer Science,Biomedical Computing,Healthcare Data Analyst,Bioinformatician,Basic,Average,Strong
+961,Robert Davis,Male,23,3.7453523398381474,Computer Science,Software Engineering,Devops,Devops Engineer,Strong,Average,Basic
+962,Black Cat,Female,21,3.6681523318953793,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+963,John Brown,Male,19,3.635592962610852,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+964,Agent Bobbi Morse,Female,28,3.736055916128026,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+965,Emily Lee,Female,20,3.7360242654619658,Computer Science,Data Science,Statistical Analysis,Data Analyst,Strong,Average,Basic
+966,Andrew Hall,Male,24,3.6000981220108774,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+967,Laura Lee,Female,21,3.96465775514747,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Basic
+968,Olivia Clark,Female,23,3.627229220777128,Computer Science,Biomedical Computing,Medical Imaging Analysis,Healthcare It Specialist,Basic,Strong,Average
+969,Liam Wilson,Male,23,3.8590560909743776,Computer Science,Database Management,Data Warehouse Design,Database Administrator,Average,Strong,Basic
+970,Vulture,Male,24,3.705271229965169,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+971,Lizard,Male,21,3.2816133210173444,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+972,John Brown,Male,19,3.5957124485519736,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Basic,Strong
+973,James Wilson,Male,24,3.3055363022709967,Computer Science,Human-Computer Interaction,Usability Testing,Ux Designer,Strong,Average,Basic
+974,Sophia Johnson,Female,21,3.4698236505882494,Computer Science,Database Management,Sql Database Administration,Database Administrator,Basic,Strong,Average
+975,Sarah Miller,Female,22,3.786795406193901,Computer Science,Cloud Computing,Cloud Migration Specialist,Cloud Solutions Architect,Basic,Strong,Average
+976,Olivia Davis,Female,22,3.49047514809446,Computer Science,Web Development,Full-Stack Web App,Web Developer,Basic,Strong,Strong
+977,Aim,Male,21,3.734006814023755,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Basic,Strong,Average
+978,William Johnson,Male,22,3.598285294095418,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Strong,Basic
+979,Michelle Williams,Female,21,3.244316196144249,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+980,Olivia Davis,Female,22,3.817931711946516,Computer Science,Software Development,Mobile App Development,Software Engineer,Strong,Strong,Average
+981,Olivia Clark,Female,22,3.51134949708234,Computer Science,Biomedical Computing,Healthcare Data Analyst,Game Developer,Basic,Average,Strong
+982,Morbius,Male,23,3.377503481468316,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Basic,Strong
+983,Agent Lance Hunter,Male,30,3.5026042973486686,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Basic
+984,Sophia Miller,Female,19,3.547241231151637,Computer Science,Database Management,Sql Database Design,Database Administrator,Basic,Strong,Average
+985,Joseph Miller,Male,21,3.579750236919094,Computer Science,Data Science,Machine Learning,Data Scientist,Strong,Average,Basic
+986,Emily Lee,Female,19,3.564725285790157,Computer Science,Mobile App Development,Cross-Platform App Development,Mobile App Developer,Basic,Strong,Average
+987,Laura Lee,Female,23,4.0,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Basic
+988,Alice Johnson,Female,19,3.147146876607775,Computer Science,Data Science,Data Analytics,Data Scientist,Average,Strong,Basic
+989,William Davis,Male,21,3.284737098536275,Computer Science,Artificial Intelligence,Robotics,Robotics Engineer,Strong,Strong,Basic
+990,Black Cat,Female,21,3.6627037752173774,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,Strong,Average,Basic
+991,William Johnson,Male,24,3.753007920992438,Computer Science,Database Management,Sql Query Optimization,Database Administrator,Average,Strong,Basic
+992,William Davis,Male,21,3.515635947754149,Computer Science,Artificial Intelligence,Reinforcement Learning,Ai Researcher,Strong,Basic,Average
+993,William Johnson,Male,22,3.695076121027153,Computer Science,Digital Forensics,Computer Forensic Analyst,Digital Forensics Specialist,Basic,Average,Strong
+994,Betty Brant,Female,22,3.521580282838888,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+995,Betty Brant,Female,22,3.861744297416495,Computer Science,Web Development,E-Commerce Website,Web Developer,Basic,Strong,Strong
+996,Alice Johnson,Female,20,3.652881238179309,Computer Science,Machine Learning,Computer Vision,Machine Learning Engineer,Strong,Average,Basic
+997,David Jones,Male,22,3.663842413718052,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+998,Olivia Brown,Female,22,3.449383883447516,Computer Science,Game Development,Mobile Game Development,Game Developer,Basic,Strong,Average
+999,Charlotte Davis,Female,21,3.819290974406893,Computer Science,Database Management,Sql Database Design,Database Administrator,Basic,Strong,Average
+1000,Olivia Brown,Female,21,3.561093703654429,Computer Science,Game Development,Mobile Game Development,Game Developer,Basic,Strong,Average
