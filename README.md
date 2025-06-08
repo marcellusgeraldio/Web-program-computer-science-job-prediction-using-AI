@@ -4,16 +4,16 @@ Proyek ini adalah implementasi sistem *machine learning* untuk memprediksi dan m
 
 ## 📝 Deskripsi Proyek
 
-Sistem ini menggunakan model klasifikasi (XGBoost/CatBoost) yang telah dilatih pada dataset profil mahasiswa untuk memberikan rekomendasi 10 grup karir yang berbeda. Aplikasi ini terdiri dari frontend web interaktif dan backend API yang dibangun dengan Flask.
+Sistem ini menggunakan model klasifikasi (XGBoost) yang telah dilatih pada dataset profil mahasiswa untuk memberikan rekomendasi 10 grup karir yang berbeda. Aplikasi ini terdiri dari frontend web interaktif dan backend API yang dibangun dengan Flask.
 
 ## 🚀 Fitur Utama
 -   Prediksi 3 rekomendasi karir teratas beserta skor probabilitasnya.
 -   Antarmuka web yang intuitif untuk input data pengguna.
 -   Perbandingan 5 arsitektur model berbeda untuk menemukan yang paling optimal.
--   Akurasi model mencapai 99%+ pada dataset pengujian berkualitas tinggi.
+-   Akurasi model mencapai 98%+ pada dataset pengujian berkualitas tinggi.
 
 ## 🛠️ Teknologi yang Digunakan
--   **Backend:** Python, Flask, Pandas, Scikit-learn, XGBoost, CatBoost, LightGBM
+-   **Backend:** Python, Flask, Pandas, Scikit-learn, XGBoostM
 -   **Frontend:** HTML, CSS, JavaScript, Bootstrap 5
 -   **Lingkungan:** Jupyter Notebook, VS Code
 
@@ -21,26 +21,25 @@ Sistem ini menggunakan model klasifikasi (XGBoost/CatBoost) yang telah dilatih p
 
 1.  **Clone repositori ini:**
     ```bash
-    git clone [https://github.com/nama-anda/nama-repo-anda.git](https://github.com/nama-anda/nama-repo-anda.git)
-    cd nama-repo-anda
+    [git clone [https://github.com/nama-anda/nama-repo-anda.git](https://github.com/nama-anda/nama-repo-anda.git)
+    cd nama-repo-anda](https://github.com/marcellusgeraldio/Web-program-computer-science-job-prediction-using-AI)
     ```
 
 2.  **Install semua library yang dibutuhkan:**
     ```bash
-    pip install -r requirements.txt
     ```
 
 3.  **Siapkan Aset Model:**
-    * Pastikan Anda sudah memiliki dataset `cleaned_cs_students.csv` (unduh dari [link sumber data Anda di sini]).
+    * Pastikan Anda sudah memiliki dataset `cleaned_cs_students.csv`.
     * Jalankan skrip untuk membuat file konfigurasi dan melatih model:
         ```bash
         python extract_options.py
-        python prepare_model_xgb.py
+        python prepare_model_xgboost.py
         ```
 
 4.  **Jalankan Server Backend:**
     ```bash
-    python app_xgb.py
+    python app.py
     ```
     Server akan berjalan di `http://127.0.0.1:5000`.
 
@@ -51,12 +50,10 @@ Sistem ini menggunakan model klasifikasi (XGBoost/CatBoost) yang telah dilatih p
 ## 📂 Struktur Folder
 ```
 .
-├── app_xgb.py              # Server Flask API
-├── index.html              # Halaman utama web
-├── script.js               # Logika frontend
-├── style.css               # Styling halaman web
-├── prepare_model_xgb.py    # Skrip untuk melatih & menyimpan model
-├── extract_options.py      # Skrip untuk membuat konfigurasi form
-├── generate_final_report.py # Skrip untuk analisis & membuat laporan
-├── requirements.txt        # Daftar library Python
-└── README.md               # Dokumentasi ini
+├── app.py                      # Server Flask API
+├── index.html                  # Halaman utama web
+├── script.js                   # Logika frontend
+├── style.css                   # Styling halaman web
+├── prepare_model_xgboost.py    # Skrip untuk melatih & menyimpan model
+├── extract_options.py          # Skrip untuk membuat konfigurasi form
+└── README.md                   # Dokumentasi ini
