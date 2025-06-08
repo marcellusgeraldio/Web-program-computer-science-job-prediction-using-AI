@@ -21,12 +21,12 @@ Sistem ini menggunakan model klasifikasi (XGBoost) yang telah dilatih pada datas
 
 1.  **Clone repositori ini:**
     ```bash
-    [git clone [https://github.com/nama-anda/nama-repo-anda.git](https://github.com/nama-anda/nama-repo-anda.git)
-    cd nama-repo-anda](https://github.com/marcellusgeraldio/Web-program-computer-science-job-prediction-using-AI)
+    https://github.com/marcellusgeraldio/Web-program-computer-science-job-prediction-using-AI
     ```
 
 2.  **Install semua library yang dibutuhkan:**
     ```bash
+        pip install -r requirements.txt
     ```
 
 3.  **Siapkan Aset Model:**
